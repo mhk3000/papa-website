@@ -1,3 +1,74 @@
+# हुसैन बे मिसाल
+
+नबी  का वादा निभाइ का नमुना  बे मिसाल  <br>
+करबला ,   सबर  का है   नमुना बे  मिसाल <br>
+
+करबला के ७२  शहीदों की फिदाइ बे मिसाल <br>
+एक दीन का जंग ने इितहास बदला बे मिसाल <br>
+
+हुर   का जंग मे   इमान लाना बे  मिसाल <br>
+जंग मे में अववल शहीद  होना  बे मिसाल <br>
+
+झालीम के सामने न जुकने का नमुना बे मिसाल <br>
+फुरात पे अबबास  का पानी न पीना बे  मिसाल <br>
+
+अबबास का दो हाथ कट जाना बे मिसाल <br>
+मशकी  को मुंह  मे   पकरना   बे मिसाल <br>
+
+मशकी का गीरना, हुसैन का आना बे मिसाल <br>
+हुसैन को मवला से भाइ कहलाना बे मिसाल <br>
+
+भाइ की वसीयत को ले  उठना बे  मिसाल <br>
+आबो दाना बगैर  शादी कराना बे  मिसाल <br>
+
+सकीना का खुशी से दुलहन बनना बे मिसाल <br>
+निकाह के बाद दुलहा शहीद होना बे मिसाल <br>
+
+अली अकबर का बरछी खा कर गीरना बे मिसाल <br>
+मौत   के वकत पंजतन को  देखना  बे मिसाल <br>
+
+अली असगर को हाथो पर उठाना बे मिसाल <br>
+खुन का एक कतरा  भी न गीरना बे  मिसाल <br>
+
+कयामत का मुशतरी की  शहादत बे   मिसाल <br>
+जंग मे बाप ने बैटे  की  कबर खोदी बे मिसाल <br>
+
+पयासा हुसैन ने आधा लशकर मारा बे मिसाल <br>
+फिरीशते  की मदद को  ना कहना बे मिसाल <br>
+
+
+खुदा की खुशी मे  शहादत खरीदना बे मिसाल <br>
+फतेह जैब मे और तलवार मियान में बे मिसाल <br>
+
+शीमर के साथ हुसैन की हुजजत बे मिसाल <br>
+कतटी  नही  हुसैन  की गरदन बे  मिसाल <br>
+
+शीमर   को  छाती   से   उठाना  बे   मिसाल <br>
+तहे बे तैज खंजर हुसैन का सजदा बे मिसाल <br>
+
+# सैयदना खुजैमा कुतबुददीन (तउश)
+
+ऐ दाई ए आले रसुल ,  करो मेरा इमान  कबुल  <br>
+पकडो मेरा हाथ जरुर, मेरी  मेहनत हो वसुल <br>
+
+ए ताहेर का दुलारा खजैमा, ए मोहममद के वारीस खुजैमा <br>
+इतमीनान से बैठे अंदर खैमा, जैसा इमाम हुसैन का जलवा <br>
+
+ए साहेबे जमाले युसुफ , ए याकुब के पयारे युसुफ <br>
+ए ताहेर की खुशबो युसुफ, करो जींदा हमारे नुफुस <br>
+
+खुदा करे आप को कामयाब , युसुफ से भी जयादा कामयाब <br>
+अललाह पुरा करे मेरा खवाब, दे जमाना आप को जवाब <br>
+
+आप को हो सुकुन और करार,  फतेहयाब करेगा परवरदीगार <br>
+दुशमन न मीलेगा वकते फरार, यहां भी और वहाँ भी है जलनार <br>
+
+रोजत ताहेरा है इंतेजार, मसजीदे, मजारो को है इंतजार <br>
+सैफी महल को है इंतेजार , आप के दील जूहूर का इंतेजार <br>
+
+मेरे मवला करो जुहुर, जहां को आपकी सखत जरुर <br>
+इंतीजारी में खुजेमा बेकरार , मुनतजीरे दीदार बार बार <br>
+
 # Syedna Khuzaima Qutbuddin
 
 O descendent of Propher AS public face <br>
@@ -127,6 +198,54 @@ To redeem pledge & to you prostrating <br>
 जो  दुआ आका कुतबुददीन के वासते , अब  वह दुआ आका फखरुददीन  के वासते <br>
 आप को खुदा नसरे अजीज बखशे,जरीह ए फातेमा,नबी स अ बनाने का मौका बखशे <br>
 
+# Dearest Shirin
+
+Shirin   you are my wife  dearest <br>
+Anger & frustration you conquest <br>
+Start with love and not with anger <br>
+You will be calmer & feel younger <br>
+Your sense of duty is plus average <br>
+All situation you very well manage <br>
+Due to this you are loaded more <br>
+Consider as gift and be not sore <br>
+You may be in pain but have no fear <br>
+patience brings victories closer, near <br>
+Joy is not sweet without pain <br>
+Get double joy with one pain <br>
+When longer & deeper is pain <br> <br>
+Sweeter and lasting sure is gain
+You drive the life in the middle gear <br>
+and  not  quick and fast  my   dear <br> 
+In pain you don’t get jittery <br>
+Keep poise on ground slippery <br>
+You no more ever suffer <br> 
+To Beneficent is my prayer <br>
+Your life goal are honest & clear <br>
+Hence you live life without fear <br>
+People make  often   noise <br>
+you dear always be in poise <br>
+May God clean, if any, your mess <br>
+Grant you   plenty  from your less <br>
+Make Hereafter & imam focus <br>
+World  fame  is less than  dust <br>
+God change confusion into solutions <br>
+All your doubt into firm resolution <br>
+All darkness into shining light   <br>
+So you glimpse Hereafter sight <br>
+All sickness into health & cure <br>
+All defeats into victory sure <br>
+All ignorance into knowledge <br>
+Fulfil  all promise & pledge <br>
+All difficulties into plain ease <br>
+people meet you well pleased <br>
+God removes frustration fear <br>
+Make your path easy & clear <br>
+Malice towards non & charity for all <br>
+You gooutand conquer every soul <br>
+You and son and so on goes on <br>
+Descendants more than million <br>
+All life gain and life itself sacrifice <br>
+To noble leader more than twice <br>
 
 # तसनीम मेरी लाड़ली बेट 
 
@@ -145,28 +264,47 @@ To redeem pledge & to you prostrating <br>
 ज़मीं से आसमान देख,जमीं से तु आसमानी बन <br>
 बना तेरे इरादे नैक, जमा कर आखेरत का धन <br>
 
+
+# ओ मेरा प्यारा ताहेर
+
+ओ मेरा  प्यारा ताहेर,  बनो सब  में  माहिर <br>
+दुख में हो साबीर, क़ुर्बान हो हकक के ख़ातिर <br>
+
+जहाँ इमाम बो जाहीर, जाना वहाँ मेरा ताहेर <br>
+लुटा देना सबकुछ, बनेगी जान तेरी जवाहीर <br>
+
+यह है मेरे दील की पुकार, कर सब पे उपकार <br>
+तोड़ न किस से  क़रार, वरना  होगा  तु खुवार <br>
+
+दुनिया है फँसाना, उसकी हवा मे न झुलना <br>
+हर दम सोचना , एक  दीन तुजे  है जाना <br>
+
+नाखुदा हमारा है दाइ, वह  रुहानी  सफ़ीना <br>
+कुदुस है मंजील, क़यामत तक बाक़ी सफ़ीना <br>
+
+
 # अली असग़र
 
-ओ  मेरा प्यारा  छोटा     अली     असग़र     
-तेरे  दील  में हो     हुबबे    हैदर  सरासर
+ओ  मेरा प्यारा  छोटा     अली     असग़र <br>     
+तेरे  दील  में हो     हुबबे    हैदर  सरासर <br>
 
-कर अहले बैत की मोहब्बत  इस      कदर
-कर  उनके  दाइ  की   मोहब्बत     बराबर
+कर अहले बैत की मोहब्बत  इस कदर <br>
+कर  उनके  दाइ  की   मोहब्बत बराबर <br>
 
-मुद्दइइ   मीला  न सके    तुज  से     नज़र
-भागे  वहाँ   से जहां से    होता तेरा   गुजर
+मुद्दइइ   मीला  न सके    तुज  से     नज़र  <br>
+भागे  वहाँ   से जहां से    होता तेरा   गुजर <br>
 
-मवला की  हो जाए  तुज पर बस एक  नज़र
-उम्मीद  तमाम, होगी    तेरी  ज़िंदगी    बदल
+मवला की  हो जाए  तुज पर बस एक  नज़र <br>
+उम्मीद  तमाम, होगी    तेरी  ज़िंदगी    बदल <br>
 
-यह फानी दुनिया  में तु  कर  सफ़र इस कदर
-कि हो जाए फ़तेह मुबीन आखेरत की   सफ़र
+यह फानी दुनिया  में तु  कर  सफ़र इस कदर <br>
+कि हो जाए फ़तेह मुबीन आखेरत की   सफ़र <br>
 
-बड़े ज़ोर से आएगी नीदा ए अल्लाह ओ अकबर
-तु   भरती  हो  जा   शौख से इमानी   लशकर
+बड़े ज़ोर से आएगी नीदा ए अल्लाह ओ अकबर <br>
+तु   भरती  हो  जा   शौख से इमानी   लशकर <br>
 
-नाना की दुआ, मौत के बाद भी, तेरे साथ हर  दम
-इमानी  उंचाइ यो पर  चढ़ते जा कदम ब   कदम
+नाना की दुआ, मौत के बाद भी, तेरे साथ हर  दम <br>
+इमानी  उंचाइ यो पर  चढ़ते जा कदम ब कदम <br>
 
 # जमीला
 
