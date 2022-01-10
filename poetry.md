@@ -1,4 +1,175 @@
+# Syedna Khuzaima Qutbuddin
+
+O descendent of Propher AS public face <br>
+Accept my faith,of person of grace <br>
+Hold my hand very very firm <br>
+life earning will be confirmed <br>
+
+O Taher’s most dearest Khuziama <br>
+O Mohammad AQ successor Khuzaima <br>
+We are secure under your shade <br>
+like Hussain valour never fades <br>
+
+May God make you clear successful <br>
+More than prophet Joseph successful <br>
+May Allah fulfil my constant dream <br>
+May Time answers you & redeem <br>
+
+You are always in balance & poise <br>
+God will grant victory & ease <br>
+Enemy will have no time to flee <br>
+Here & there with helpless plea <br>
+ 
+Raudat Tahera is painfully waiting <br>
+Masazids and majaars are waiting <br>
+Saifee castle is lonely is waiting <br>
+But in your ZUHUR is waiting <br>
+
+My leaser Imam SA do public manifest <br>
+The world awaits and needs you most <br>
+Khuzaima AS is resltless and waiting <br>
+To redeem pledge & to you prostrating <br>
+
+# मवला फखरुददीन की तखत नशीनी
+
+मवला ताहेर तखत पर  आप  खुब   जलवानूमा <br>
+आदी तुजे है  पैसे का घमंड, कर इसका  सामना <br>
+सोचता मेरा है जमाना, ताहेर को कैसा फसाना <br>
+फिर  अदालत  में आने  से  कयों  हीचकीचाना ? <br>
+
+फखरुददीन मवला  खडे है  वहां हकके  दीन है  <br>
+उसकी    रगो  में  रवा  खूने   कुतबुददीन है <br>
+उसकी    दलील  में  अंदाजे  बुरहानुददीन है <br>
+उन    के    रोब   मे  वकारे     सैफेददीन है  <br>
+
+खुजेमा ने  ताहेर  को   खुब   बनाया   सजाया  <br>
+इलमो्-अदब   हुननर   गहराइ   से    शीखाया <br>
+कसर न रखी, ताहेर  को  अपना  जैसा  बनाया <br>
+बन गया अनमोल  मोती, दुआतो मे यह सीतारा <br>
+
+ताहेर  न  सीरफ  दाइ  है,  वयपारी  भी <br>
+जीसका  पलला इलम जानकारी से भारी <br>
+जब होगी फखरुददीन की फतेह की सवारी <br>
+भागे  गा  कहाँ  तब  तु  बता  ए  नारी  ? <br>
+
+चारो  और होगी दुनीया तेरी  अंधेरी <br>
+महेल का छोडना, दोसतो का बिछडना <br>
+हो गइ सब तेरे सामने दौलत   खाली <br>
+बगीचा कहेगा ताहेर अब मेरा   माली <br>
+
+तब ताहेर की होगी दुसरी तखत नशीनी <br>
+मुमीन की आंखे  खुशी  से  पानी   पानी <br>
+बता दे ए रब ! तेरे जलवा की  नीशानी <br>
+जइफ हुं,  जलद   होगी मेरी भी  रवानी <br>
+
+
+# Syedna Taher Fakhruddin 
+
+O descendent of Prophet AS public face <br>
+Accept my faith, O person of grace! <br>
+Hold my hand very very firm <br>
+life earning will be confirmed <br>
+
+O Khuzaima’s dearest Taher <br>
+O Khuzaima’s AQ successor Taher <br>
+We are secure under your care <br>
+like Khuzaima just and fair <br>
+
+May God make you clear successful <br>
+Just like prophet Joseph successful <br>
+May Allah fulfill my constant dream <br>
+May Time answers you & redeem <br>
+
+You are always in balance & poise <br>
+God will grant victory & ease <br>
+Enemy will have no time to flee <br>
+Here & there with helpless plea <br>
+
+Raudat Tahera is painfully waiting <br>
+Masajids and mazaars are waiting <br>
+Saifee castle is lonely and waiting <br>
+In Imam SA ZUHUR you are waiting <br>
+
+My leader Imam SA do publicly manifest <br>
+The world awaits and needs you most <br>
+Taher Fakhruddin TUS is long waiting <br>
+To redeem pledge & to you prostrating <br>
+
+# मदेह सैयदना अबु खुजैमा फखरुदददीन त 
+
+ए  सैयदना अबु खुजैमा ताहेर फखरुददीन ,ए वारीसे सरापा कुतबुददीन <br>
+ए अदाए वाएज मे बुरहानुददीन,तो जजब ए बयान में गोया सैफुददीन <br>
+
+आप होते तखत पे जलवानुमा,  सामने आते कुतबुददीन खुजेमा <br>
+सहरे हलाल है आप के बयानात,गौर से सुनती मुमीन की जमात <br>
+
+कुरआन  खुदा से गर  है नाजील, तो लाओ कीताब एसी फाजील <br>
+एसी एक सुरत भी लीख निहं सकते,सब मील के भी कर नहि सकते <br>
+
+अगर शक है फखरुददीन दाइ हक के , तो  सुनाओ वाइज इन की मीसल कर के <br>
+हासीद के पास न इलम है न अदा है ,है तो सीरफ छीनी हुइ कुरशी और जूथ है <br>
+
+हकक की ताकतके  लीए जैसे  कुतबुददीन मवला  हाजीर , आप    हाजीर <br>
+उलटे सीधे सवाल करते  काफीर , सुकुन है आप को ,    इलम मे है माहीर <br>
+
+सूरते मरयम की  ५३ की आयत , मूसा हारुन  दोनो   एक समान <br>
+दोनो का एक ही मकाम , वैसे ही  है दाइ मनसुस दोनो  एक समान <br>
+
+कायम कर लीआ जो नस से,वसी ने पा लीया नबी के दरजे को <br>
+यह है रब की सुननत, आदी कया मीटाएगा हकक की आवाज को <br>
+
+आती मवला कुतबुददीन की हरदम याद,  दुनीया ने  न  दी आप को दाद <br>
+कभी  आप   ने  न की  फरयाद , दील में गम,  मगर   चेहरा शाद शाद <br>
+
+नव रतन   बना   कर   सीधारे , मीसाल  कायम कर  के  सीधारे <br>
+अदालत मे ६०० जवाब दे कर सीधारे, ताहेर को रख कर सीधारे <br>
+
+जो  दुआ आका कुतबुददीन के वासते , अब  वह दुआ आका फखरुददीन  के वासते <br>
+आप को खुदा नसरे अजीज बखशे,जरीह ए फातेमा,नबी स अ बनाने का मौका बखशे <br>
+
+
+# तसनीम मेरी लाड़ली बेट 
+
+तसनीम मेरी लाड़ली बेटी, बन जा एक गुनवंती <br>
+बात न  कर तु खोटी,  जींदगी है एक   कसौटी <br>
+
+प्रकाश फैलाती जैसी ज्योति,बन जा एसी बेटी <br>
+झगड़ा  न  कर किस से,  कर  सब  से  शांती <br>
+
+पीछे रहकर बात न कर ,हदीस है रसुल की <br>
+जब जी उभर जाए, तब सबर कर मेरी बेटी <br>
+
+बंदगी से आला है सबर, जान ले यह  ख़बर <br>
+दोनो लाएगी मदद, होगी मालीक की नज़र <br>
+
+ज़मीं से आसमान देख,जमीं से तु आसमानी बन <br>
+बना तेरे इरादे नैक, जमा कर आखेरत का धन <br>
+
+# अली असग़र
+
+ओ  मेरा प्यारा  छोटा     अली     असग़र     
+तेरे  दील  में हो     हुबबे    हैदर  सरासर
+
+कर अहले बैत की मोहब्बत  इस      कदर
+कर  उनके  दाइ  की   मोहब्बत     बराबर
+
+मुद्दइइ   मीला  न सके    तुज  से     नज़र
+भागे  वहाँ   से जहां से    होता तेरा   गुजर
+
+मवला की  हो जाए  तुज पर बस एक  नज़र
+उम्मीद  तमाम, होगी    तेरी  ज़िंदगी    बदल
+
+यह फानी दुनिया  में तु  कर  सफ़र इस कदर
+कि हो जाए फ़तेह मुबीन आखेरत की   सफ़र
+
+बड़े ज़ोर से आएगी नीदा ए अल्लाह ओ अकबर
+तु   भरती  हो  जा   शौख से इमानी   लशकर
+
+नाना की दुआ, मौत के बाद भी, तेरे साथ हर  दम
+इमानी  उंचाइ यो पर  चढ़ते जा कदम ब   कदम
+
 # जमीला
+
 जमीला   मेरी  लाड़ली  बेटी     चतुर और प्यारी <br>
 राहे    हक्क  पर चल,  बन  जा सब   से  न्यारी <br>
 
@@ -67,20 +238,3 @@
 
 अब कयों न हम सब िमल कर करे तीनो को शाद,आबाद ? <br>
 तअससुब की सरहद को बना दे हम परेम, परीत का िकनारा <br>
-
-
-# तसनीम मेरी लाड़ली बेट
-तसनीम मेरी लाड़ली बेटी, बन जा एक गुनवंती
-बात न  कर तु खोटी,  जींदगी है एक   कसौटी
-
-प्रकाश फैलाती जैसी ज्योति,बन जा एसी बेटी
-झगड़ा  न  कर किस से,  कर  सब  से  शांती
-
-पीछे रहकर बात न कर ,हदीस है रसुल की
-जब जी उभर जाए, तब सबर कर मेरी बेटी
-
-बंदगी से आला है सबर, जान ले यह  ख़बर
-दोनो लाएगी मदद, होगी मालीक की नज़र
-
-ज़मीं से आसमान देख,जमीं से तु आसमानी बन
-बना तेरे इरादे नैक, जमा कर आखेरत का धन
