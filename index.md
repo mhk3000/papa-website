@@ -1,13 +1,14 @@
 ## Welcome to Hunaid Khorakiwala's website
 
-I am a poet, businessman and thinker....
+I am a poet, businessman and thinker....  bhai please add
 
 Add an image ...
 
-तसनीम मेरी लाड़ली बेटी, बन जा एक गुनवंती
-  बात न  कर तु खोटी,  जींदगी है एक   कसौटी
 
 
 
-[Poetry](http://github.io/mhk3000/papa-website/poetry.md)
+
+[Syedna Taher Saifuddin Poetry](http://github.io/mhk3000/papa-website/sts.md)
+
+[My Poetries](http://github.io/mhk3000/papa-website/poetry.md)
 
