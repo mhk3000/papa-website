@@ -198,6 +198,43 @@ To redeem pledge & to you prostrating <br>
 जो  दुआ आका कुतबुददीन के वासते , अब  वह दुआ आका फखरुददीन  के वासते <br>
 आप को खुदा नसरे अजीज बखशे,जरीह ए फातेमा,नबी स अ बनाने का मौका बखशे <br>
 
+# मैं हुं क़ुतबुद्दीन का दीवाना
+मैं  हुं क़ुतबुद्दीन का दीवाना ,  बन गया अब खुब मस्ताना  <br>
+होगा जहाँ से मेरा रवाना, कहेंगे गया क़ुतबुद्दीन का दीवाना सुनती नहीं यह  दुनिया ,  <br>
+मुजे  उसे अब न कुछ कहना जब होगा हमारा यहाँ से जाना ,  <br>
+सुनाओ अब हमे सुनना क़ुतबुद्दीन के मज़ार  पर जाना, चारों और मसत गुमना फिरना <br>
+मैं बना उनका परवाना, शायद  मीलेगा जननत का परवाना <br>
+
+कुतबुददीन ने दुनिया ने देखा, मगर कोइ न समजा न पहचाना <br>
+न मुलक, न शाही, सीरफ अपने हाथो से नव रतन को बनाना <br>
+
+कबर मे बादशाह अकबर परेशान, मेरे पास दुनिया का खजाना <br>
+मेरा  काम  दुआ मांगना, यह वली का काम सब को दुआ देना <br>
+
+सब कहे मुजे मुगले आजम, मगर मुजे यह मवला पे फिदा होना <br>
+मुजे कहने दो : मन कुनतो मवला हो हाजा अलीयुन मवला <br>
+
+जब आया कसोटी का जमाना, मवला को अब वाअदे को  नीभाना <br>
+दुनिया बनी ना शुकराना, बेबस मोमीन का बस मवला से लीपटाना <br>
+
+मवला ने नस एलान की , उठ! जवाब दे, ए ! सोया हुआ जमाना <br>
+डर के, चुहे जैसे, घूसे दर में सब, मोमीन को मवला को जवाब देना <br>
+
+चालीस  दीन हुए, इमानी जोश  मवला के चेहरे पर नजर  आना <br>
+अजब जोश, ६०० जवाबों का खुतबा, कचेरी में मवला जवाब देना <br>
+
+दावत को आप नै बनाइ पुखता , अब न किस दुशमन नारी से डरना <br>
+बुनयाद  अब  हीलैगी नहिं , चाहै  आए  तुफान , देखेगा  जमाना <br>
+ 
+अब मवला को आया उपर से बुलावा, ताहेर का जानशीन होना <br>
+सीलसीला चालु है, फखरुददीन के रोब से आदी का गभराना <br>
+
+दुशमन का नहीं है चारा,  जुलफिकार का  बेमयान  होना  <br>
+भटके हुए चारो और से, न वकते फरार, अब कहां जाना ?  <br>
+
+रब तेरी मदद , तुने  बाजी पलटी,  मवला को शुकर करना <br>
+दुआ हुनैद की, नसरे अजीज, फतेह मुबीन ताहेर को बखशना <br>
+
 # Dearest Shirin
 
 Shirin   you are my wife  dearest <br>
@@ -281,6 +318,119 @@ To noble leader more than twice <br>
 
 नाखुदा हमारा है दाइ, वह  रुहानी  सफ़ीना <br>
 कुदुस है मंजील, क़यामत तक बाक़ी सफ़ीना <br>
+
+
+#Dearest Taher and Umaima
+
+Taher  and Umaima are  my dearest <br>
+Anger and frustration you conquest <br>
+Start with love and not with anger <br>
+You will be calmer and feel younger <br>
+ 
+Your problem solving is + average <br>
+All situations you very well manage <br>
+Due to this you are loaded more <br>
+Consider as gift and be not sore <br>
+
+You may be in pain but have  no fear <br>
+Patience brings victory closer, near    <br>
+Joy is not sweet without pain <br>
+Get double joy  with one pain <br>
+ <br>
+When longer and deeper is pain <br>
+Sweeter and lasting sure is gain <br>
+Drive life in the middle gear <br>
+Be not quick N fast  my dear <br>
+
+In pain  you.   don’t get jittery <br>        
+Keep poise on ground slippery <br>
+You both no more ever suffer <br>
+To Beneficent   is my  prayer <br>
+
+
+Keep life goal honest and clear <br>
+You will  live sure without fear <br>
+People   make   often  noise <br>
+You both always be in poise   <br>     
+
+May God clean both your mess <br>
+Grant you plenty from your less <br>
+Make hereafter N imaan focus <br>
+World fame   is less than dust    <br>       
+
+God change confusion into solution <br>
+All your doubts into firm resolutions <br>
+All darkness into shining light <br>
+So you glimpse hereafter sight <br>
+
+All sickness into health and  cure <br>
+All defeats into clear victory sure <br>
+All ignorance into knowledge <br>
+Fulfil all promise and pledge <br>
+
+All difficulties into plain ease <br>
+People meet you well pleased <br>
+God remove frustration and fear <br>
+Make your path easy and clear <br>
+
+Malice towards none & charity for all <br>
+With love you  will conquer every  soul <br>
+You and son and so on goes on <br>
+Descendants more than million <br>
+
+All life- gain and life itself sacrifice <br>
+To noble leader more than twice <br>
+
+
+# Dearest Mohammed and Sakina
+
+Mohammad  and Sakina  dearest <br>
+Anger N frustration you conquest <br>
+Mohammad  you gifted with serenity <br>
+At your age you show good maturity <br>
+
+You may be in pain but have  no fear <br>
+Patience brings victory closer, near <br>
+Joy is not sweet without pain
+Get double joy  with one pain <br>
+
+When longer and deeper is pain <br>
+Sweeter and lasting sure is gain <br>
+Drive life in the middle gear <br>
+Be not quick N fast  my dear <br>
+
+In pain both  don’t get    jittery  <br>       
+Keep poise on ground slippery <br>
+You both no more ever suffer <br>
+To Beneficent is my prayer <br>
+Keep life goal honest and clear <br>
+You will  live sure without fear <br>
+People  make  often  noise <br>
+You both always be in poise <br>
+May God clean both your mess <br>
+Grant you plenty from your less <br>
+Make hereafter N imaan focus <br>
+World fame is less than  dust <br>
+God change confusion into solution <br>
+All your doubts into firm resolutions <br>
+All darkness into shining light <br>
+So you glimpse hereafter sight <br>
+All sickness into health &  cure <br>
+All defeats into victory sure <br>
+All ignorance into knowledge <br>
+Fulfill all promise and pledge <br>
+All difficulties into plain ease <br>
+People meet you well pleased <br>
+God remove frustration and fear <br>
+Make your path easy and clear <br>
+Malice towards none & charity  for all <br>
+With love you  will conquer every soul <br>
+You and son and so on goes on <br>
+Descendants more than million <br>
+All life- gain and life itself sacrifice <br>
+To noble leader more than twice <br>
+
+
 
 
 # अली असग़र
@@ -376,3 +526,4 @@ To noble leader more than twice <br>
 
 अब कयों न हम सब िमल कर करे तीनो को शाद,आबाद ? <br>
 तअससुब की सरहद को बना दे हम परेम, परीत का िकनारा <br>
+ <br> <br>
