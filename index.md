@@ -8,8 +8,8 @@ Add an image ...
 
 
 
-[Syedna Taher Saifuddin Poetry](http://mhk3000.github.io/papa-website/sts.md)
+[Syedna Taher Saifuddin Poetry](http://mhk3000.github.io/papa-website/sts)
 
-[My Poetries](http://mhk3000.github.io/papa-website/poetry.md)
+[My Poetries](http://mhk3000.github.io/papa-website/poetry)
 
 
