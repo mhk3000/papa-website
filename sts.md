@@ -31,7 +31,8 @@ Cry   on son of the best lady ever     &emsp;&emsp;&emsp;&emsp;           Deep i
  
 You   all cry on imam   Hussein as       &emsp;&emsp;&emsp;&emsp;       Cry          on           truth’s            fountain  <br>
 Cry     on    charity’s          fountain        &emsp;&emsp;&emsp;&emsp;        In   Karbala ,      thirsty  he    was   slain  <br>
-In   the path of  God,  the  Giver        &emsp;&emsp;&emsp;&emsp;           Deep   is the repentance , O Hussein a.s.                                   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; O leader of the martyrs <br>
+In   the path of  God,  the  Giver        &emsp;&emsp;&emsp;&emsp;           Deep   is the repentance , O Hussein a.s.    <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; O leader of the martyrs <br>
 
 Long       period     you       all      cry       &emsp;&emsp;&emsp;&emsp;      Leader who    was  martyred  while thirsty         <br>
 Cry    morning, evening  and      daily     &emsp;&emsp;&emsp;&emsp;     On     the   ground  of    Judgment       Day  <br>
@@ -74,7 +75,8 @@ In    foreign  land I am a   prisoner     &emsp;&emsp;&emsp;&emsp;          Deep
 Zainab   crying  <br>
 Deep   is the repentance ,O Hussein    &emsp;&emsp;&emsp;&emsp;  Ill-treated in foreign   land, O Hussein   <br>
 misfortune   befallen, O Hussein      &emsp;&emsp;&emsp;&emsp;       After you home got barren ,O Hussein     <br>
-O   resting  pillow   of      believers    &emsp;&emsp;&emsp;&emsp;       Deep is the repentance , O   Hussein a.s.                                      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; O leader of the martyrs <br>
+O   resting  pillow   of      believers    &emsp;&emsp;&emsp;&emsp;       Deep is the repentance , O   Hussein a.s. <br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; O leader of the martyrs <br>
 
  
 Zainab   crying  <br>
@@ -165,12 +167,13 @@ Sister   Umme Kulsum  crying after martyrdom  <br>
  
 And     lady     Kulsum   was       wailing      &emsp;&emsp;&emsp;&emsp;         Hands  on   chest  she  was      striking  <br>
 On   her brother, world’s noblest   being     &emsp;&emsp;&emsp;&emsp;           With raised breathing lady  was  crying         <br>
-Sobbing   and   shedding   blood     tears   &emsp;&emsp;&emsp;&emsp;            Deep is the repentance , O Hussein a.s.                
+Sobbing   and   shedding   blood     tears   &emsp;&emsp;&emsp;&emsp;            Deep is the repentance , O Hussein a.s.  <br>              
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; O leader of the martyrs <br>
 
 Alas     Umme Kulsum     What a state       &emsp;&emsp;&emsp;&emsp;       Torn      her   clothes,  depression  great  <br>
 Hiding     with   hair   her   beautiful     face    &emsp;&emsp;&emsp;&emsp;      Oppressors       snatched  away her  veil           <br>
-Tearful     moon   like  face   shining    ever    &emsp;&emsp;&emsp;&emsp;      Deep is the   repentance , O Hussein a.s.       <br>          &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; O leader of the martyrs <br>
+Tearful     moon   like  face   shining    ever    &emsp;&emsp;&emsp;&emsp;      Deep is the   repentance , O Hussein a.s.       <br>         
+ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; O leader of the martyrs <br>
 
  
  
