@@ -1,6 +1,6 @@
 
 ## हुसैन बे मिसाल <br>
-नबी  का वादा निभाइ का नमुना  बे मिसाल <br>
+नबी  का वादा निभाइ का नमुना  बे मिसाल  <br>
 करबला ,   सबर  का है   नमुना बे  मिसाल <br>
 
 करबला के ७२  शहीदों की फिदाइ बे मिसाल <br>
@@ -103,8 +103,8 @@ Khuzaima AS is resltless and waiting <br>
 To redeem pledge & to you prostrating <br>
 
   <br>
-    ## मवला फखरुददीन की तखत नशीनी 
-
+ ## मवला फखरुददीन की तखत नशीनी 
+<br>
 मवला ताहेर तखत पर  आप  खुब   जलवानूमा <br>
 आदी तुजे है  पैसे का घमंड, कर इसका  सामना <br>
 सोचता मेरा है जमाना, ताहेर को कैसा फसाना <br>
@@ -136,7 +136,7 @@ To redeem pledge & to you prostrating <br>
 जइफ हुं,  जलद   होगी मेरी भी  रवानी <br>
 
 <br>
-    ## Syedna Taher Fakhruddin 
+  ## Syedna Taher Fakhruddin 
 <br>
 O descendent of Prophet AS public face <br>
 Accept my faith, O person of grace! <br>
@@ -167,7 +167,7 @@ My leader Imam SA do publicly manifest <br>
 The world awaits and needs you most <br>
 Taher Fakhruddin TUS is long waiting <br>
 To redeem pledge & to you prostrating <br>
-
+<br>
 ## मदेह सैयदना अबु खुजैमा फखरुदददीन त  
  <br>
 ए  सैयदना अबु खुजैमा ताहेर फखरुददीन ,ए वारीसे सरापा कुतबुददीन <br>
@@ -200,6 +200,7 @@ To redeem pledge & to you prostrating <br>
 जो  दुआ आका कुतबुददीन के वासते , अब  वह दुआ आका फखरुददीन  के वासते <br>
 आप को खुदा नसरे अजीज बखशे,जरीह ए फातेमा,नबी स अ बनाने का मौका बखशे <br>
  
+<br> 
 ##  मैं हुं क़ुतबुद्दीन का दीवाना  <br>
 मैं  हुं क़ुतबुद्दीन का दीवाना ,  बन गया अब खुब मस्ताना  <br>
 होगा जहाँ से मेरा रवाना, कहेंगे गया क़ुतबुद्दीन का दीवाना सुनती नहीं यह  दुनिया ,  <br>
@@ -434,7 +435,7 @@ All life- gain and life itself sacrifice <br>
 To noble leader more than twice <br>
 
  <br>
-    ## अली असग़र 
+   ## अली असग़र 
  <br>
 ओ  मेरा प्यारा  छोटा     अली     असग़र <br>     
 तेरे  दील  में हो     हुबबे    हैदर  सरासर <br>
@@ -458,7 +459,7 @@ To noble leader more than twice <br>
 इमानी  उंचाइ यो पर  चढ़ते जा कदम ब कदम <br>
 
   <br>
-    ##  जमीला 
+   ##  जमीला 
  <br>
 जमीला   मेरी  लाड़ली  बेटी     चतुर और प्यारी <br>
 राहे    हक्क  पर चल,  बन  जा सब   से  न्यारी <br>
@@ -529,6 +530,3 @@ To noble leader more than twice <br>
 अब कयों न हम सब िमल कर करे तीनो को शाद,आबाद ? <br>
 तअससुब की सरहद को बना दे हम परेम, परीत का िकनारा <br>
  <br> <br>
-<!-- </body>
-</html>
- -->
