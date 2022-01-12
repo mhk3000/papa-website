@@ -1,4 +1,4 @@
-<html>
+<!-- <html>
   <head>
     <meta charset="UTF-8" />
     <title>My poetries</title>
@@ -8,7 +8,7 @@
       
     </header>
   </head>
-  <body>
+  <body> -->
     
     <h1>हुसैन बे मिसाल </h1>
 <br>
@@ -545,5 +545,6 @@ To noble leader more than twice <br>
 अब कयों न हम सब िमल कर करे तीनो को शाद,आबाद ? <br>
 तअससुब की सरहद को बना दे हम परेम, परीत का िकनारा <br>
  <br> <br>
-</body>
+<!-- </body>
 </html>
+ -->
