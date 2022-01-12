@@ -287,7 +287,7 @@ Descendants more than million <br>
 All life gain and life itself sacrifice <br>
 To noble leader more than twice <br>
 
-  ##  तसनीम मेरी लाड़ली बेट 
+##  तसनीम मेरी लाड़ली बेट 
  <br>
 तसनीम मेरी लाड़ली बेटी, बन जा एक गुनवंती <br>
 बात न  कर तु खोटी,  जींदगी है एक   कसौटी <br>
