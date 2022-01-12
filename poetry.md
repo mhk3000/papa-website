@@ -104,7 +104,7 @@ Khuzaima AS is resltless and waiting <br>
 To redeem pledge & to you prostrating <br>
 
 
-  ## मवला फखरुददीन की तखत नशीनी 
+## मवला फखरुददीन की तखत नशीनी 
 <br>
 मवला ताहेर तखत पर  आप  खुब   जलवानूमा <br>
 आदी तुजे है  पैसे का घमंड, कर इसका  सामना <br>
@@ -237,7 +237,7 @@ To redeem pledge & to you prostrating <br>
 
 रब तेरी मदद , तुने  बाजी पलटी,  मवला को शुकर करना <br>
 दुआ हुनैद की, नसरे अजीज, फतेह मुबीन ताहेर को बखशना <br>
-
+<br>
 ##  Dearest Shirin 
  <br>
 Shirin   you are my wife  dearest <br>
@@ -305,7 +305,7 @@ To noble leader more than twice <br>
 बना तेरे इरादे नैक, जमा कर आखेरत का धन <br>
 
    <br>
-   ## ओ मेरा प्यारा ताहेर
+## ओ मेरा प्यारा ताहेर
  <br>
 ओ मेरा  प्यारा ताहेर,  बनो सब  में  माहिर <br>
 दुख में हो साबीर, क़ुर्बान हो हकक के ख़ातिर <br>
@@ -323,7 +323,7 @@ To noble leader more than twice <br>
 कुदुस है मंजील, क़यामत तक बाक़ी सफ़ीना <br>
 
 
-   ##  Dearest Taher and Umaima 
+##  Dearest Taher and Umaima 
  <br>
 Taher  and Umaima are  my dearest <br>
 Anger and frustration you conquest <br>
@@ -384,7 +384,7 @@ All life- gain and life itself sacrifice <br>
 To noble leader more than twice <br>
 
  <br>
-   ##  Dearest Mohammed and Sakina 
+##  Dearest Mohammed and Sakina 
  <br>
 Mohammad  and Sakina  dearest <br>
 Anger N frustration you conquest <br>
@@ -433,7 +433,7 @@ All life- gain and life itself sacrifice <br>
 To noble leader more than twice <br>
 
  <br>
-   ## अली असग़र 
+## अली असग़र 
  <br>
 ओ  मेरा प्यारा  छोटा     अली     असग़र <br>     
 तेरे  दील  में हो     हुबबे    हैदर  सरासर <br>
@@ -479,7 +479,7 @@ To noble leader more than twice <br>
 नाना   की   दुआ    है  मेरी   बेटी   तेरे   साथ <br>
 मवला  की  हुब   से  आएगी  नजात  तेरे हाथ <br>
 
-  ## पैगामे दीवाली 
+## पैगामे दीवाली 
   <br>
 आइ  दीवाली, लाती  हम सब के  िलए है  खुशाली <br>
 तुम  चमन के गुल हो, इशवर है तुमहारा भला माली <br>
