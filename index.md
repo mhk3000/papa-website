@@ -10,6 +10,6 @@ Add an image ...
 
 [Syedna Taher Saifuddin Poetry](http://mhk3000.github.io/papa-website/sts)
 
-[All my poetries](http://www.hunaidkhorakiwala.com/poetry.html)
+[All my poetries](http://mhk3000.github.io/papa-website/sts)
 
 
