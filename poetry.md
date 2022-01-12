@@ -137,7 +137,7 @@ To redeem pledge & to you prostrating <br>
 जइफ हुं,  जलद   होगी मेरी भी  रवानी <br>
 
 <br>
-  ## Syedna Taher Fakhruddin 
+## Syedna Taher Fakhruddin 
 <br>
 O descendent of Prophet AS public face <br>
 Accept my faith, O person of grace! <br>
@@ -168,7 +168,7 @@ My leader Imam SA do publicly manifest <br>
 The world awaits and needs you most <br>
 Taher Fakhruddin TUS is long waiting <br>
 To redeem pledge & to you prostrating <br>
-<br>
+
 ## मदेह सैयदना अबु खुजैमा फखरुदददीन त  
  <br>
 ए  सैयदना अबु खुजैमा ताहेर फखरुददीन ,ए वारीसे सरापा कुतबुददीन <br>
@@ -200,8 +200,7 @@ To redeem pledge & to you prostrating <br>
 
 जो  दुआ आका कुतबुददीन के वासते , अब  वह दुआ आका फखरुददीन  के वासते <br>
 आप को खुदा नसरे अजीज बखशे,जरीह ए फातेमा,नबी स अ बनाने का मौका बखशे <br>
- 
-<br> 
+
 ##  मैं हुं क़ुतबुद्दीन का दीवाना  <br>
 मैं  हुं क़ुतबुद्दीन का दीवाना ,  बन गया अब खुब मस्ताना  <br>
 होगा जहाँ से मेरा रवाना, कहेंगे गया क़ुतबुद्दीन का दीवाना सुनती नहीं यह  दुनिया ,  <br>
@@ -239,7 +238,6 @@ To redeem pledge & to you prostrating <br>
 रब तेरी मदद , तुने  बाजी पलटी,  मवला को शुकर करना <br>
 दुआ हुनैद की, नसरे अजीज, फतेह मुबीन ताहेर को बखशना <br>
 
-<br>
   ##  Dearest Shirin 
  <br>
 Shirin   you are my wife  dearest <br>
@@ -289,7 +287,6 @@ Descendants more than million <br>
 All life gain and life itself sacrifice <br>
 To noble leader more than twice <br>
 
-  <br>
   ##  तसनीम मेरी लाड़ली बेट 
  <br>
 तसनीम मेरी लाड़ली बेटी, बन जा एक गुनवंती <br>
@@ -325,8 +322,8 @@ To noble leader more than twice <br>
 नाखुदा हमारा है दाइ, वह  रुहानी  सफ़ीना <br>
 कुदुस है मंजील, क़यामत तक बाक़ी सफ़ीना <br>
 
- <br>
-    ##  Dearest Taher and Umaima 
+
+   ##  Dearest Taher and Umaima 
  <br>
 Taher  and Umaima are  my dearest <br>
 Anger and frustration you conquest <br>
