@@ -10,7 +10,7 @@
   </head>
   <body> -->
     
-    <h1>हुसैन बे मिसाल </h1>
+    ## हुसैन बे मिसाल 
 <br>
 नबी  का वादा निभाइ का नमुना  बे मिसाल  <br>
 करबला ,   सबर  का है   नमुना बे  मिसाल <br>
@@ -82,7 +82,7 @@
 इंतीजारी में खुजेमा बेकरार , मुनतजीरे दीदार बार बार <br>
 
 <br>    
-    <h1> Syedna Khuzaima Qutbuddin </h1>
+    ##  Syedna Khuzaima Qutbuddin 
 <br>
 O descendent of Propher AS public face <br>
 Accept my faith,of person of grace <br>
@@ -115,7 +115,7 @@ Khuzaima AS is resltless and waiting <br>
 To redeem pledge & to you prostrating <br>
 
   <br>
-    <h1>मवला फखरुददीन की तखत नशीनी </h1>
+    ## मवला फखरुददीन की तखत नशीनी 
 
 मवला ताहेर तखत पर  आप  खुब   जलवानूमा <br>
 आदी तुजे है  पैसे का घमंड, कर इसका  सामना <br>
@@ -148,7 +148,7 @@ To redeem pledge & to you prostrating <br>
 जइफ हुं,  जलद   होगी मेरी भी  रवानी <br>
 
 <br>
-    <h1>Syedna Taher Fakhruddin </h1>
+    ## Syedna Taher Fakhruddin 
 <br>
 O descendent of Prophet AS public face <br>
 Accept my faith, O person of grace! <br>
@@ -181,7 +181,7 @@ Taher Fakhruddin TUS is long waiting <br>
 To redeem pledge & to you prostrating <br>
 
      <br>
-<h1>मदेह सैयदना अबु खुजैमा फखरुदददीन त </h1> 
+## मदेह सैयदना अबु खुजैमा फखरुदददीन त  
  <br>
 ए  सैयदना अबु खुजैमा ताहेर फखरुददीन ,ए वारीसे सरापा कुतबुददीन <br>
 ए अदाए वाएज मे बुरहानुददीन,तो जजब ए बयान में गोया सैफुददीन <br>
@@ -214,7 +214,7 @@ To redeem pledge & to you prostrating <br>
 आप को खुदा नसरे अजीज बखशे,जरीह ए फातेमा,नबी स अ बनाने का मौका बखशे <br>
  
     <br>
-    <h1> मैं हुं क़ुतबुद्दीन का दीवाना </h1>
+    ##  मैं हुं क़ुतबुद्दीन का दीवाना 
      <br>
 मैं  हुं क़ुतबुद्दीन का दीवाना ,  बन गया अब खुब मस्ताना  <br>
 होगा जहाँ से मेरा रवाना, कहेंगे गया क़ुतबुद्दीन का दीवाना सुनती नहीं यह  दुनिया ,  <br>
@@ -253,7 +253,7 @@ To redeem pledge & to you prostrating <br>
 दुआ हुनैद की, नसरे अजीज, फतेह मुबीन ताहेर को बखशना <br>
 
      <br>
-    <h1> Dearest Shirin </h1>
+    ##  Dearest Shirin 
  <br>
 Shirin   you are my wife  dearest <br>
 Anger & frustration you conquest <br>
@@ -303,7 +303,7 @@ All life gain and life itself sacrifice <br>
 To noble leader more than twice <br>
 
      <br>
-    <h1> तसनीम मेरी लाड़ली बेट </h1>
+    ##  तसनीम मेरी लाड़ली बेट 
  <br>
 तसनीम मेरी लाड़ली बेटी, बन जा एक गुनवंती <br>
 बात न  कर तु खोटी,  जींदगी है एक   कसौटी <br>
@@ -339,7 +339,7 @@ To noble leader more than twice <br>
 कुदुस है मंजील, क़यामत तक बाक़ी सफ़ीना <br>
 
  <br>
-    <h1> Dearest Taher and Umaima </h1>
+    ##  Dearest Taher and Umaima 
  <br>
 Taher  and Umaima are  my dearest <br>
 Anger and frustration you conquest <br>
@@ -400,7 +400,7 @@ All life- gain and life itself sacrifice <br>
 To noble leader more than twice <br>
 
  <br>
-   <h1> Dearest Mohammed and Sakina </h1>
+   ##  Dearest Mohammed and Sakina 
  <br>
 Mohammad  and Sakina  dearest <br>
 Anger N frustration you conquest <br>
@@ -449,7 +449,7 @@ All life- gain and life itself sacrifice <br>
 To noble leader more than twice <br>
 
  <br>
-    <h1>अली असग़र </h1>
+    ## अली असग़र 
  <br>
 ओ  मेरा प्यारा  छोटा     अली     असग़र <br>     
 तेरे  दील  में हो     हुबबे    हैदर  सरासर <br>
@@ -473,7 +473,7 @@ To noble leader more than twice <br>
 इमानी  उंचाइ यो पर  चढ़ते जा कदम ब कदम <br>
 
      <br>
-    <h1> जमीला </h1>
+    ##  जमीला 
  <br>
 जमीला   मेरी  लाड़ली  बेटी     चतुर और प्यारी <br>
 राहे    हक्क  पर चल,  बन  जा सब   से  न्यारी <br>
