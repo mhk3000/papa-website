@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -8,19 +7,21 @@
     </header>
   </head>
   <body>
-## Welcome to Hunaid Khorakiwala's website
 
+<h1>Welcome to Hunaid Khorakiwala's website </h1>
+<p>
 I am a poet, businessman and thinker....  bhai please add
 
 Add an image ...
+</p>
 
 
+<a href="http://mhk3000.github.io/papa-website/sts">Syedna Taher Saifuddin Poetry</a> <br>
+<a href="http://www.hunaidkhorakiwala.com/poetry.md">All my poetries</a>
 
+<!-- [Syedna Taher Saifuddin Poetry](http://mhk3000.github.io/papa-website/sts)
 
-
-[Syedna Taher Saifuddin Poetry](http://mhk3000.github.io/papa-website/sts)
-
-[All my poetries](http://www.hunaidkhorakiwala.com/poetry.md)
+[All my poetries](http://www.hunaidkhorakiwala.com/poetry.md) -->
   </body>
 </html>
 
