@@ -1,18 +1,6 @@
-<!-- <html>
-  <head>
-    <meta charset="UTF-8" />
-    <title>My poetries</title>
-    <link rel="stylesheet" href="/papa-website/assets/css/style.css?v=aef78a464115da0e1f3f40aaf3d58a1bcc885bb5">
-    <header class="page-header" role="banner">
-      <h1 class="project-name">Welcome to my poetry section</h1>
-      
-    </header>
-  </head>
-  <body> -->
-    
-    ## हुसैन बे मिसाल 
-<br>
-नबी  का वादा निभाइ का नमुना  बे मिसाल  <br>
+
+## हुसैन बे मिसाल 
+नबी  का वादा निभाइ का नमुना  बे मिसाल
 करबला ,   सबर  का है   नमुना बे  मिसाल <br>
 
 करबला के ७२  शहीदों की फिदाइ बे मिसाल <br>
@@ -58,7 +46,7 @@
 शीमर   को  छाती   से   उठाना  बे   मिसाल <br>
 तहे बे तैज खंजर हुसैन का सजदा बे मिसाल <br>
 
-# सैयदना खुजैमा कुतबुददीन (तउश)
+## सैयदना खुजैमा कुतबुददीन (तउश)
 
 ऐ दाई ए आले रसुल ,  करो मेरा इमान  कबुल  <br>
 पकडो मेरा हाथ जरुर, मेरी  मेहनत हो वसुल <br>
@@ -82,7 +70,7 @@
 इंतीजारी में खुजेमा बेकरार , मुनतजीरे दीदार बार बार <br>
 
 <br>    
-    ##  Syedna Khuzaima Qutbuddin 
+##  Syedna Khuzaima Qutbuddin 
 <br>
 O descendent of Propher AS public face <br>
 Accept my faith,of person of grace <br>
