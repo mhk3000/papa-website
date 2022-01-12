@@ -74,9 +74,10 @@
 
 मेरे मवला करो जुहुर, जहां को आपकी सखत जरुर <br>
 इंतीजारी में खुजेमा बेकरार , मुनतजीरे दीदार बार बार <br>
-</p>
-# Syedna Khuzaima Qutbuddin
 
+<br>    
+    <h1> Syedna Khuzaima Qutbuddin </h1>
+<br>
 O descendent of Propher AS public face <br>
 Accept my faith,of person of grace <br>
 Hold my hand very very firm <br>
@@ -139,9 +140,9 @@ To redeem pledge & to you prostrating <br>
 बता दे ए रब ! तेरे जलवा की  नीशानी <br>
 जइफ हुं,  जलद   होगी मेरी भी  रवानी <br>
 
-
+<br>
 # Syedna Taher Fakhruddin 
-
+<br>
 O descendent of Prophet AS public face <br>
 Accept my faith, O person of grace! <br>
 Hold my hand very very firm <br>
@@ -172,8 +173,9 @@ The world awaits and needs you most <br>
 Taher Fakhruddin TUS is long waiting <br>
 To redeem pledge & to you prostrating <br>
 
+     <br>
 # मदेह सैयदना अबु खुजैमा फखरुदददीन त 
-
+ <br>
 ए  सैयदना अबु खुजैमा ताहेर फखरुददीन ,ए वारीसे सरापा कुतबुददीन <br>
 ए अदाए वाएज मे बुरहानुददीन,तो जजब ए बयान में गोया सैफुददीन <br>
 
@@ -203,8 +205,10 @@ To redeem pledge & to you prostrating <br>
 
 जो  दुआ आका कुतबुददीन के वासते , अब  वह दुआ आका फखरुददीन  के वासते <br>
 आप को खुदा नसरे अजीज बखशे,जरीह ए फातेमा,नबी स अ बनाने का मौका बखशे <br>
-
+ 
+    <br>
 # मैं हुं क़ुतबुद्दीन का दीवाना
+     <br>
 मैं  हुं क़ुतबुद्दीन का दीवाना ,  बन गया अब खुब मस्ताना  <br>
 होगा जहाँ से मेरा रवाना, कहेंगे गया क़ुतबुद्दीन का दीवाना सुनती नहीं यह  दुनिया ,  <br>
 मुजे  उसे अब न कुछ कहना जब होगा हमारा यहाँ से जाना ,  <br>
@@ -241,8 +245,9 @@ To redeem pledge & to you prostrating <br>
 रब तेरी मदद , तुने  बाजी पलटी,  मवला को शुकर करना <br>
 दुआ हुनैद की, नसरे अजीज, फतेह मुबीन ताहेर को बखशना <br>
 
+     <br>
 # Dearest Shirin
-
+ <br>
 Shirin   you are my wife  dearest <br>
 Anger & frustration you conquest <br>
 Start with love and not with anger <br>
@@ -290,8 +295,9 @@ Descendants more than million <br>
 All life gain and life itself sacrifice <br>
 To noble leader more than twice <br>
 
+     <br>
 # तसनीम मेरी लाड़ली बेट 
-
+ <br>
 तसनीम मेरी लाड़ली बेटी, बन जा एक गुनवंती <br>
 बात न  कर तु खोटी,  जींदगी है एक   कसौटी <br>
 
@@ -307,9 +313,9 @@ To noble leader more than twice <br>
 ज़मीं से आसमान देख,जमीं से तु आसमानी बन <br>
 बना तेरे इरादे नैक, जमा कर आखेरत का धन <br>
 
-
+ <br>
 # ओ मेरा प्यारा ताहेर
-
+ <br>
 ओ मेरा  प्यारा ताहेर,  बनो सब  में  माहिर <br>
 दुख में हो साबीर, क़ुर्बान हो हकक के ख़ातिर <br>
 
@@ -325,9 +331,9 @@ To noble leader more than twice <br>
 नाखुदा हमारा है दाइ, वह  रुहानी  सफ़ीना <br>
 कुदुस है मंजील, क़यामत तक बाक़ी सफ़ीना <br>
 
-
+ <br>
 #Dearest Taher and Umaima
-
+ <br>
 Taher  and Umaima are  my dearest <br>
 Anger and frustration you conquest <br>
 Start with love and not with anger <br>
@@ -352,7 +358,6 @@ In pain  you.   don’t get jittery <br>
 Keep poise on ground slippery <br>
 You both no more ever suffer <br>
 To Beneficent   is my  prayer <br>
-
 
 Keep life goal honest and clear <br>
 You will  live sure without fear <br>
@@ -387,9 +392,9 @@ Descendants more than million <br>
 All life- gain and life itself sacrifice <br>
 To noble leader more than twice <br>
 
-
+ <br>
 # Dearest Mohammed and Sakina
-
+ <br>
 Mohammad  and Sakina  dearest <br>
 Anger N frustration you conquest <br>
 Mohammad  you gifted with serenity <br>
@@ -436,11 +441,9 @@ Descendants more than million <br>
 All life- gain and life itself sacrifice <br>
 To noble leader more than twice <br>
 
-
-
-
+ <br>
 # अली असग़र
-
+ <br>
 ओ  मेरा प्यारा  छोटा     अली     असग़र <br>     
 तेरे  दील  में हो     हुबबे    हैदर  सरासर <br>
 
@@ -462,8 +465,9 @@ To noble leader more than twice <br>
 नाना की दुआ, मौत के बाद भी, तेरे साथ हर  दम <br>
 इमानी  उंचाइ यो पर  चढ़ते जा कदम ब कदम <br>
 
+     <br>
 # जमीला
-
+ <br>
 जमीला   मेरी  लाड़ली  बेटी     चतुर और प्यारी <br>
 राहे    हक्क  पर चल,  बन  जा सब   से  न्यारी <br>
 
@@ -486,8 +490,9 @@ To noble leader more than twice <br>
 मवला  की  हुब   से  आएगी  नजात  तेरे हाथ <br>
 
 
-
+ <br>
 # पैगामे दीवाली 
+     <br>
 आइ  दीवाली, लाती  हम सब के  िलए है  खुशाली <br>
 तुम  चमन के गुल हो, इशवर है तुमहारा भला माली <br>
 
