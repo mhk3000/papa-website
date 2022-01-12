@@ -70,9 +70,9 @@
 मेरे मवला करो जुहुर, जहां को आपकी सखत जरुर <br>
 इंतीजारी में खुजेमा बेकरार , मुनतजीरे दीदार बार बार <br>
 
-<br>    
-##  Syedna Khuzaima Qutbuddin 
-<br>
+    
+## Syedna Khuzaima Qutbuddin 
+
 O descendent of Propher AS public face <br>
 Accept my faith,of person of grace <br>
 Hold my hand very very firm <br>
@@ -103,8 +103,8 @@ The world awaits and needs you most <br>
 Khuzaima AS is resltless and waiting <br>
 To redeem pledge & to you prostrating <br>
 
- <br>
- ## मवला फखरुददीन की तखत नशीनी 
+
+  ## मवला फखरुददीन की तखत नशीनी 
 <br>
 मवला ताहेर तखत पर  आप  खुब   जलवानूमा <br>
 आदी तुजे है  पैसे का घमंड, कर इसका  सामना <br>
@@ -238,7 +238,7 @@ To redeem pledge & to you prostrating <br>
 रब तेरी मदद , तुने  बाजी पलटी,  मवला को शुकर करना <br>
 दुआ हुनैद की, नसरे अजीज, फतेह मुबीन ताहेर को बखशना <br>
 
-  ##  Dearest Shirin 
+##  Dearest Shirin 
  <br>
 Shirin   you are my wife  dearest <br>
 Anger & frustration you conquest <br>
@@ -252,8 +252,8 @@ You may be in pain but have no fear <br>
 patience brings victories closer, near <br>
 Joy is not sweet without pain <br>
 Get double joy with one pain <br>
-When longer & deeper is pain <br> <br>
-Sweeter and lasting sure is gain
+When longer & deeper is pain <br> 
+Sweeter and lasting sure is gain <br>
 You drive the life in the middle gear <br>
 and  not  quick and fast  my   dear <br> 
 In pain you don’t get jittery <br>
@@ -393,7 +393,7 @@ At your age you show good maturity <br>
 
 You may be in pain but have  no fear <br>
 Patience brings victory closer, near <br>
-Joy is not sweet without pain
+Joy is not sweet without pain <br>
 Get double joy  with one pain <br>
 
 When longer and deeper is pain <br>
@@ -456,8 +456,7 @@ To noble leader more than twice <br>
 नाना की दुआ, मौत के बाद भी, तेरे साथ हर  दम <br>
 इमानी  उंचाइ यो पर  चढ़ते जा कदम ब कदम <br>
 
-  <br>
-   ##  जमीला 
+##  जमीला 
  <br>
 जमीला   मेरी  लाड़ली  बेटी     चतुर और प्यारी <br>
 राहे    हक्क  पर चल,  बन  जा सब   से  न्यारी <br>
@@ -480,7 +479,6 @@ To noble leader more than twice <br>
 नाना   की   दुआ    है  मेरी   बेटी   तेरे   साथ <br>
 मवला  की  हुब   से  आएगी  नजात  तेरे हाथ <br>
 
-  <br>
   ## पैगामे दीवाली 
   <br>
 आइ  दीवाली, लाती  हम सब के  िलए है  खुशाली <br>
