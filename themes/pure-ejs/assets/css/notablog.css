@@ -201,7 +201,7 @@ body {
   color: hsla(45, 8%, 25%, 1);
   font-size: 0.85rem;
   white-space: nowrap;
-text-transform: uppercase;
+/* text-transform: uppercase; */
 }
 
 .DateTagBar__Tag--default {
