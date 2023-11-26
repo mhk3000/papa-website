@@ -1,3 +1,7 @@
+:root{
+  font-size:17px;
+}
+
 body {
   background: rgb(250, 250, 246);
 }
@@ -125,7 +129,7 @@ body {
   margin-bottom: 0.25em;
   line-height: 1.2;
   font-size: 2.625rem;
-  font-weight: 700;
+  font-weight: 500;
   letter-spacing: -0.005em;
 }
 

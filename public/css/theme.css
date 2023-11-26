@@ -56,7 +56,7 @@
 body {
   color: var(--color-text-default);
   fill: currentColor;
-  font-family: "Calvino", "Halant", 'Times New Roman', 'Noto Serif', serif, -apple-system,
+  font-family: "Gambetta","Calvino", "Halant", 'Times New Roman', 'Noto Serif', serif, -apple-system,
     'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   margin: 0;
 }
