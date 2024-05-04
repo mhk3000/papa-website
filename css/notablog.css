@@ -96,7 +96,7 @@ body {
 }
 
 .Header__Cover {
-  position: absolute;
+  /* position: absolute; */
   top: 0;
   right: 0;
   /* Firefox need this while Chrome doesn't. */
@@ -131,6 +131,7 @@ body {
   font-size: 2.625rem;
   font-weight: 500;
   letter-spacing: -0.005em;
+  text-align: left;
 }
 
 .Header > *:last-child {
@@ -142,6 +143,9 @@ body {
   line-height: 0;
 }
 
+.Header__Desc{
+  max-width: 70ch;
+}
 /* DateTagBar */
 
 .DateTagBar {
