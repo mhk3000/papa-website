@@ -7,7 +7,7 @@ file_or_folder_to_check="config.json"  # You can replace this with "themes" or a
 # Navigate to the repository
 cd "$repo_path" || exit
 
-# Check if the file or folder has changes
+# Check if the file or folder has changes   
 if git diff --name-only "$file_or_folder_to_check" | grep -q "$file_or_folder_to_check"; then
     echo "$file_or_folder_to_check has changed. Generating the site with Notablog..."
 
