@@ -1,7 +1,7 @@
      #!/bin/bash
 
      # Navigate to the project directory (optional, if not already in the correct directory)
-     cd /Users/aliasgerrasheed/Documents/creative-coding/papa-website/docs/ || exit  # Change this to your project directory
+     cd /Users/aliasgerrasheed/Documents/creative-coding/papa-website/ || exit  # Change this to your project directory
 
      # Run the notablog generation and git commands
      notablog generate . && \
