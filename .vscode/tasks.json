@@ -1,1 +1,20 @@
-//notablog
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "echo",
+      "type": "shell",
+      "command": "echo Hello"
+    },
+    {
+      "label": "generate notablog and push",
+      "type": "shell",
+      "command": "notablog generate . && git add . && CHANGES=$(git status --porcelain | awk '{print $2}' | tr '\\n' ', ' | sed 's/,$//' | sed 's/^/Changes in: /') && git commit -m \"Auto-commit: $CHANGES\" && git push",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    }
+  ]
+}
