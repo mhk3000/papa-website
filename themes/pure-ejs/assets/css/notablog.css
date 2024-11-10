@@ -130,13 +130,13 @@ body {
 }
 
 .Header__Cover > img {
-  height: calc(50vh + 50px);
+  height: calc(30vh);
   width: 100%;
   object-fit: cover;
 }
 
 .Header__Spacer {
-  margin-top: 50vh;
+  margin-top: 30vh;
 }
 
 .Header__Spacer--NoCover {
