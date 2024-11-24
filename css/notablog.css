@@ -72,7 +72,7 @@ body {
 .Header,
 .PageRoot,
 .ArticleList {
-  width: 1200px;
+  width: 56ch;
   max-width: 100%;
   margin: 0px auto;
   padding: 0px 96px;
