@@ -145,6 +145,7 @@ body {
 
 .Header__Desc{
   max-width: 70ch;
+  text-align: center;
 }
 /* DateTagBar */
 
