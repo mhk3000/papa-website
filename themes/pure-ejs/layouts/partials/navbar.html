@@ -2,9 +2,10 @@
   <a href="index.html">
     <div class="Navbar__Btn">
       <% if (siteMeta.iconUrl) { %>
-        <span><img class="inline-img-icon" src="<%= siteMeta.iconUrl %>"></span>&nbsp;
-      <% } %>
-      <span>Home</span>
+        <span><img class="inline-img-icon"
+               src="<%= siteMeta.iconUrl %>"></span>&nbsp;
+        <% } %>
+          <span>Hunaid Khorakiwala</span>
     </div>
   </a>
   <% siteMeta.pages.forEach(function(page) { %>
@@ -13,11 +14,14 @@
       <a href="<%= page.url %>">
         <div class="Navbar__Btn">
           <% if (page.iconUrl) { %>
-            <span><img class="inline-img-icon" src="<%= page.iconUrl %>"></span>&nbsp;
-          <% } %>
-          <span><%= page.title %></span>
+            <span><img class="inline-img-icon"
+                   src="<%= page.iconUrl %>"></span>&nbsp;
+            <% } %>
+              <span>
+                <%= page.title %>
+              </span>
         </div>
       </a>
-    <% } %>
-  <% }) %>
+      <% } %>
+        <% }) %>
 </nav>
