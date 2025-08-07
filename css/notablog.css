@@ -454,3 +454,216 @@ body {
   width: 1.2em;
   vertical-align: sub;
 }
+
+/* Notion-style Table of Contents */
+.TableOfContents {
+  position: fixed;
+  top: 80px; /* Below navbar */
+  right: 20px;
+  width: 280px;
+  max-height: calc(100vh - 120px);
+  background: rgba(250, 250, 246, 0.95);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(55, 53, 47, 0.16);
+  border-radius: 8px;
+  padding: 16px;
+  overflow-y: auto;
+  z-index: 100;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+.TableOfContents--collapsed {
+  width: 48px;
+  padding: 12px 8px;
+  cursor: pointer;
+}
+
+.TableOfContents--collapsed .TableOfContents__Content {
+  display: none;
+}
+
+.TableOfContents__Header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+  font-weight: 600;
+  font-size: 13px;
+  color: rgba(55, 53, 47, 0.8);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.TableOfContents__Toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 4px;
+  border-radius: 4px;
+  color: rgba(55, 53, 47, 0.6);
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.TableOfContents__Toggle:hover {
+  background: rgba(55, 53, 47, 0.08);
+  color: rgba(55, 53, 47, 0.8);
+}
+
+.TableOfContents__Toggle svg {
+  width: 16px;
+  height: 16px;
+  transition: transform 0.2s ease;
+}
+
+.TableOfContents--collapsed .TableOfContents__Toggle svg {
+  transform: rotate(180deg);
+}
+
+.TableOfContents__Content {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.TableOfContents__Item {
+  display: block;
+  padding: 6px 8px;
+  border-radius: 4px;
+  color: rgba(55, 53, 47, 0.8);
+  text-decoration: none;
+  transition: all 0.2s ease;
+  font-size: 13px;
+  line-height: 1.3;
+  cursor: pointer;
+  border: none;
+  background: none;
+  text-align: left;
+  width: 100%;
+}
+
+.TableOfContents__Item:hover {
+  background: rgba(55, 53, 47, 0.08);
+  color: rgba(55, 53, 47, 1);
+}
+
+.TableOfContents__Item--active {
+  background: rgba(0, 120, 223, 0.1);
+  color: rgba(0, 120, 223, 1);
+  font-weight: 500;
+}
+
+.TableOfContents__Item--h1 {
+  font-weight: 600;
+  padding-left: 8px;
+}
+
+.TableOfContents__Item--h2 {
+  font-weight: 500;
+  padding-left: 20px;
+  font-size: 12px;
+}
+
+.TableOfContents__Item--h3 {
+  font-weight: 400;
+  padding-left: 32px;
+  font-size: 11px;
+  color: rgba(55, 53, 47, 0.6);
+}
+
+.TableOfContents__Item--h4 {
+  font-weight: 400;
+  padding-left: 44px;
+  font-size: 11px;
+  color: rgba(55, 53, 47, 0.5);
+}
+
+.TableOfContents__Item--h5 {
+  font-weight: 400;
+  padding-left: 56px;
+  font-size: 10px;
+  color: rgba(55, 53, 47, 0.4);
+}
+
+.TableOfContents__Item--h6 {
+  font-weight: 400;
+  padding-left: 68px;
+  font-size: 10px;
+  color: rgba(55, 53, 47, 0.3);
+}
+
+/* Mobile styles */
+@media only screen and (max-width: 1200px) {
+  .TableOfContents {
+    position: fixed;
+    top: auto;
+    bottom: 20px;
+    right: 20px;
+    width: 48px;
+    height: 48px;
+    padding: 12px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+  }
+  
+  .TableOfContents--expanded {
+    width: 280px;
+    height: auto;
+    max-height: 60vh;
+    border-radius: 8px;
+    padding: 16px;
+  }
+  
+  .TableOfContents__Header {
+    margin-bottom: 8px;
+  }
+  
+  .TableOfContents__Content {
+    display: none;
+  }
+  
+  .TableOfContents--expanded .TableOfContents__Content {
+    display: flex;
+  }
+  
+  .TableOfContents__Toggle {
+    display: none;
+  }
+  
+  .TableOfContents--expanded .TableOfContents__Toggle {
+    display: flex;
+    position: absolute;
+    top: 8px;
+    right: 8px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .TableOfContents {
+    bottom: 80px; /* Above mobile menu */
+  }
+}
+
+/* Smooth scrolling for anchor links */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Highlight active section */
+.PageRoot h1,
+.PageRoot h2,
+.PageRoot h3,
+.PageRoot h4,
+.PageRoot h5,
+.PageRoot h6 {
+  scroll-margin-top: 100px; /* Account for fixed navbar */
+}
