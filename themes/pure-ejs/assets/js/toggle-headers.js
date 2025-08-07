@@ -22,12 +22,17 @@ document.addEventListener('DOMContentLoaded', function () {
         toggleWrapper.className = 'Toggle';
         toggleWrapper.setAttribute('open', ''); // Start expanded by default
 
-        // Create the summary element (the clickable header)
+                // Create the summary element (the clickable header)
         const summary = document.createElement('summary');
         summary.className = 'Toggle__Summary';
-
-        // Move the H1 content to the summary
-        summary.innerHTML = h1.innerHTML;
+        
+        // Create an H1 element inside the summary to maintain typography
+        const h1Element = document.createElement('h1');
+        h1Element.className = h1.className; // Preserve original classes
+        h1Element.innerHTML = h1.innerHTML; // Move the H1 content
+        
+        // Add the H1 element to the summary
+        summary.appendChild(h1Element);
 
         // Create content wrapper
         const contentWrapper = document.createElement('div');
