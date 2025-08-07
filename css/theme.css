@@ -997,6 +997,8 @@ pre.Code code {
   border-radius: 5px;
   font-size: 0.875rem;
   max-height: 100vh;
+  overflow-y: scroll;
+  columns: 2;
 }
 
 .TableOfContents__Item {
