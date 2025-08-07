@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function () {
         // Create a wrapper div for the toggle
         const toggleWrapper = document.createElement('details');
         toggleWrapper.className = 'Toggle';
-        
+
         // Keep the last (newest) toggle open, close all others
         if (index === h1Headers.length - 1) {
             toggleWrapper.setAttribute('open', ''); // Keep newest open
