@@ -466,6 +466,9 @@ body {
   .Navbar__Btn {
     font-size: 14px;
   }
+  .Header {
+    margin-top: 70px; /* Account for fixed navbar height (50px) + padding */
+  }
   .Header__Icon {
     font-size: 55px;
   }
@@ -484,6 +487,22 @@ body {
   (not (-webkit-backdrop-filter: blur(20px))) {
   .Navbar {
     background-color: white;
+  }
+}
+
+/* Additional mobile breakpoint for very small screens */
+@media only screen and (max-width: 480px) {
+  .Header {
+    margin-top: 60px; /* Slightly less margin for smaller screens */
+  }
+  .Header__Cover > img {
+    height: 35vh; /* Smaller height for very small screens */
+  }
+  .Header__Title {
+    font-size: 1.8rem;
+  }
+  .Header__Desc {
+    font-size: 0.95rem;
   }
 }
 
