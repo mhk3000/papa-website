@@ -20,17 +20,22 @@ document.addEventListener('DOMContentLoaded', function () {
         // Create a wrapper div for the toggle
         const toggleWrapper = document.createElement('details');
         toggleWrapper.className = 'Toggle';
-        toggleWrapper.setAttribute('open', ''); // Start expanded by default
+        
+        // Keep the last (newest) toggle open, close all others
+        if (index === h1Headers.length - 1) {
+            toggleWrapper.setAttribute('open', ''); // Keep newest open
+        }
+        // All other toggles start closed by default
 
-                // Create the summary element (the clickable header)
+        // Create the summary element (the clickable header)
         const summary = document.createElement('summary');
         summary.className = 'Toggle__Summary';
-        
+
         // Create an H1 element inside the summary to maintain typography
         const h1Element = document.createElement('h1');
         h1Element.className = h1.className; // Preserve original classes
         h1Element.innerHTML = h1.innerHTML; // Move the H1 content
-        
+
         // Add the H1 element to the summary
         summary.appendChild(h1Element);
 

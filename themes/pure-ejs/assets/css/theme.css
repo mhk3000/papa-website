@@ -1106,6 +1106,15 @@ pre.Code code {
   display: flex;
 }
 
+/* Preserve H1 styling within toggle summaries */
+.Toggle__Summary h1 {
+  margin: 0;
+  /* Keep original H1 styling */
+  font-size: 2.0625rem;
+  line-height: 1.515;
+  color: var(--color-text-default);
+}
+
 .Toggle__Summary::-webkit-details-marker {
   display: none;
 }
