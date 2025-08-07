@@ -67,6 +67,115 @@ body {
   color: rgba(55, 53, 47, 0.4);
 }
 
+/* Mobile menu button */
+.Navbar__MobileToggle {
+  display: none;
+  flex-direction: column;
+  justify-content: space-around;
+  width: 30px;
+  height: 25px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  margin-left: auto;
+  z-index: 10;
+}
+
+.Navbar__MobileToggle span {
+  width: 100%;
+  height: 3px;
+  background: rgba(55, 53, 47, 0.8);
+  border-radius: 2px;
+  transition: all 0.3s ease;
+}
+
+.Navbar__MobileToggle.active span:nth-child(1) {
+  transform: rotate(45deg) translate(5px, 5px);
+}
+
+.Navbar__MobileToggle.active span:nth-child(2) {
+  opacity: 0;
+}
+
+.Navbar__MobileToggle.active span:nth-child(3) {
+  transform: rotate(-45deg) translate(7px, -6px);
+}
+
+/* Navigation items container */
+.Navbar__Items {
+  display: flex;
+  align-items: center;
+  flex: 1;
+}
+
+/* Mobile menu styles */
+@media only screen and (max-width: 768px) {
+  .Navbar {
+    justify-content: space-between;
+    overflow: visible;
+  }
+  
+  .Navbar__MobileToggle {
+    display: flex;
+  }
+  
+  .Navbar__Items {
+    position: fixed;
+    top: 0;
+    right: -100%;
+    width: 250px;
+    height: 100vh;
+    background: rgba(250, 250, 246, 0.95);
+    -webkit-backdrop-filter: blur(20px);
+    backdrop-filter: blur(20px);
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 80px 20px 20px 20px;
+    transition: right 0.3s ease;
+    box-shadow: -2px 0 10px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+  }
+  
+  .Navbar__Items.active {
+    right: 0;
+  }
+  
+  .Navbar__Items .Navbar__Btn {
+    width: 100%;
+    padding: 12px 8px;
+    margin: 4px 0;
+    border-radius: 6px;
+  }
+  
+  .Navbar__Items .Navbar__Delim {
+    display: none;
+  }
+  
+  .Navbar__Items a {
+    width: 100%;
+  }
+  
+  /* Overlay when menu is open */
+  .Navbar__Overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.3);
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease;
+    z-index: 998;
+  }
+  
+  .Navbar__Overlay.active {
+    opacity: 1;
+    visibility: visible;
+  }
+}
+
 /* Common */
 
 .Header,

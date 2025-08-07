@@ -8,19 +8,30 @@
           <span>Hunaid Khorakiwala</span>
     </div>
   </a>
-  <% siteMeta.pages.forEach(function(page) { %>
-    <% if (page.publish && page.inMenu) { %>
-      <span class="Navbar__Delim">&centerdot;</span>
-      <a href="<%= page.url %>">
-        <div class="Navbar__Btn">
-          <% if (page.iconUrl) { %>
-            <span><img class="inline-img-icon" src="<%= page.iconUrl %>"></span>&nbsp;
-            <% } %>
-              <span>
-                <%= page.title %>
-              </span>
-        </div>
-      </a>
-      <% } %>
-        <% }) %>
+
+  <!-- Mobile menu button -->
+  <button class="Navbar__MobileToggle" aria-label="Toggle navigation menu">
+    <span></span>
+    <span></span>
+    <span></span>
+  </button>
+
+  <!-- Navigation items container -->
+  <div class="Navbar__Items">
+    <% siteMeta.pages.forEach(function(page) { %>
+      <% if (page.publish && page.inMenu) { %>
+        <span class="Navbar__Delim">&centerdot;</span>
+        <a href="<%= page.url %>">
+          <div class="Navbar__Btn">
+            <% if (page.iconUrl) { %>
+              <span><img class="inline-img-icon" src="<%= page.iconUrl %>"></span>&nbsp;
+              <% } %>
+                <span>
+                  <%= page.title %>
+                </span>
+          </div>
+        </a>
+        <% } %>
+          <% }) %>
+  </div>
 </nav>
