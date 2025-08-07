@@ -1,3 +1,6 @@
+/* Import Xanh Mono font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Xanh+Mono:ital@0;1&display=swap');
+
 :root{
   font-size:17px;
 }
@@ -365,6 +368,15 @@ body {
 
 .DateTagBar__Tag--red {
   background: rgba(255, 0, 26, 0.2);
+}
+
+/* Special styling for @Web tag */
+.DateTagBar__Tag--web {
+  background: rgba(0, 120, 223, 0.2);
+  font-family: 'Xanh Mono', monospace;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  letter-spacing: 0.05em;
 }
 
 .DateTagBar__Tag > a {
