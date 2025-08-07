@@ -613,6 +613,7 @@ body {
     justify-content: center;
     cursor: pointer;
     box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+    z-index: 1000;
   }
   
   .TableOfContents--expanded {
@@ -650,6 +651,123 @@ body {
 @media only screen and (max-width: 768px) {
   .TableOfContents {
     bottom: 80px; /* Above mobile menu */
+    right: 15px;
+    width: 44px;
+    height: 44px;
+  }
+  
+  .TableOfContents--expanded {
+    width: calc(100vw - 30px);
+    max-width: 320px;
+    right: 15px;
+    left: 15px;
+    margin: 0 auto;
+    max-height: 50vh;
+  }
+  
+  .TableOfContents__Item {
+    padding: 8px 10px;
+    font-size: 14px;
+  }
+  
+  .TableOfContents__Item--h1 {
+    padding-left: 10px;
+  }
+  
+  .TableOfContents__Item--h2 {
+    padding-left: 24px;
+    font-size: 13px;
+  }
+  
+  .TableOfContents__Item--h3 {
+    padding-left: 38px;
+    font-size: 12px;
+  }
+  
+  .TableOfContents__Item--h4 {
+    padding-left: 52px;
+    font-size: 12px;
+  }
+  
+  .TableOfContents__Item--h5 {
+    padding-left: 66px;
+    font-size: 11px;
+  }
+  
+  .TableOfContents__Item--h6 {
+    padding-left: 80px;
+    font-size: 11px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .TableOfContents {
+    bottom: 70px;
+    right: 10px;
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+  }
+  
+  .TableOfContents--expanded {
+    width: calc(100vw - 20px);
+    right: 10px;
+    left: 10px;
+    max-height: 45vh;
+    padding: 12px;
+  }
+  
+  .TableOfContents__Header {
+    font-size: 12px;
+    margin-bottom: 6px;
+  }
+  
+  .TableOfContents__Item {
+    padding: 6px 8px;
+    font-size: 13px;
+  }
+  
+  .TableOfContents__Item--h1 {
+    padding-left: 8px;
+  }
+  
+  .TableOfContents__Item--h2 {
+    padding-left: 20px;
+    font-size: 12px;
+  }
+  
+  .TableOfContents__Item--h3 {
+    padding-left: 32px;
+    font-size: 11px;
+  }
+  
+  .TableOfContents__Item--h4 {
+    padding-left: 44px;
+    font-size: 11px;
+  }
+  
+  .TableOfContents__Item--h5 {
+    padding-left: 56px;
+    font-size: 10px;
+  }
+  
+  .TableOfContents__Item--h6 {
+    padding-left: 68px;
+    font-size: 10px;
+  }
+}
+
+/* Touch-friendly improvements */
+@media (hover: none) and (pointer: coarse) {
+  .TableOfContents__Item {
+    min-height: 44px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .TableOfContents__Toggle {
+    min-width: 44px;
+    min-height: 44px;
   }
 }
 
