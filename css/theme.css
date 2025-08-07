@@ -996,6 +996,7 @@ pre.Code code {
   padding: 5px;
   border-radius: 5px;
   font-size: 0.875rem;
+  max-height: 100vh;
 }
 
 .TableOfContents__Item {
