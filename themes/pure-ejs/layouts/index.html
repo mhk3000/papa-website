@@ -2,23 +2,18 @@
 <html lang="en">
 
 <head>
-  <%- include('partials/head.html', { fontSize: 20, favicon:
-      siteMeta.iconUrl }) %>
+  <%- include('partials/head.html', { fontSize: 20, favicon: siteMeta.iconUrl }) %>
     <title>
       <%= siteMeta.title %>
     </title>
     <meta property="og:type" content="blog">
-    <meta property="og:title"
-          content="<%= siteMeta.title %>">
+    <meta property="og:title" content="<%= siteMeta.title %>">
     <% if (siteMeta.description) { %>
-      <meta name="description"
-            content="<%= siteMeta.descriptionPlain %>">
-      <meta property="og:description"
-            content="<%= siteMeta.descriptionPlain %>">
+      <meta name="description" content="<%= siteMeta.descriptionPlain %>">
+      <meta property="og:description" content="<%= siteMeta.descriptionPlain %>">
       <% } %>
         <% if (siteMeta.iconUrl) { %>
-          <meta property="og:image"
-                content="<%= siteMeta.iconUrl %>">
+          <meta property="og:image" content="<%= siteMeta.iconUrl %>">
           <% } %>
 </head>
 
@@ -30,13 +25,11 @@
           <img src="<%= siteMeta.cover %>">
         </div>
         <% } %>
-          <div
-               class="Header__Spacer <% if (!siteMeta.cover) { %>Header__Spacer--NoCover<% } %>">
+          <div class="Header__Spacer <% if (!siteMeta.cover) { %>Header__Spacer--NoCover<% } %>">
           </div>
           <% if (siteMeta.iconUrl) { %>
             <div class="Header__Icon">
-              <span><img class="inline-img-icon"
-                     src="<%= siteMeta.iconUrl %>"></span>
+              <span><img class="inline-img-icon" src="<%= siteMeta.iconUrl %>"></span>
             </div>
             <% } %>
               <h1 class="Header__Title">
@@ -50,11 +43,13 @@
                 </div>
                 <% } %>
     </header>
-    <%- include('partials/articleList.html', {
-        pages: siteMeta.pages.filter(page=> page.publish &&
+    <%- include('partials/articleList.html', { pages: siteMeta.pages.filter(page=> page.publish &&
       page.inList)
       }) %>
       <%- include('partials/footer.html', { siteMeta }) %>
+
+        <!-- Toggle Headers JavaScript -->
+        <script src="<%= siteMeta.url %>/themes/pure-ejs/assets/js/toggle-headers.js"></script>
 </body>
 
 </html>
