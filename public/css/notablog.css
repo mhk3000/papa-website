@@ -247,22 +247,23 @@ body {
 }
 
 .Header__Cover {
-  position: absolute;
-  top: 0;
-  right: 0;
-  /* Firefox need this while Chrome doesn't. */
-  left: 0;
-  z-index: -1;
+  position: relative;
+  width: 100%;
+  margin-bottom: 2rem;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
 .Header__Cover > img {
-  height: calc(30vh);
+  height: 50vh;
   width: 100%;
   object-fit: cover;
+  display: block;
 }
 
 .Header__Spacer {
-  margin-top: 30vh;
+  display: none; /* Remove the spacer since we're not overlapping anymore */
 }
 
 .Header__Spacer--NoCover {
@@ -273,24 +274,24 @@ body {
   line-height: 1.1;
   /* On Android Firefox, emoji can't be displayed if font-size > 77px. */
   font-size: 75px;
-  display: none;
+  text-align: center;
+  margin-bottom: 1rem;
 }
 
 .Header__Title {
-  margin-top: 2.5rem;
-  margin-bottom: 0.25em;
-  line-height: .9;
-  font-size: 4rem;
-  text-align: center ;
-  padding-top: .5em;
-  font-weight: 300;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  line-height: 1.2;
+  font-size: 2.625rem;
+  text-align: center;
+  font-weight: 600;
   letter-spacing: -0.005em;
+  color: #2c3e50;
 }
 
 @media screen and (max-width: 480px) {
-  
   .Header__Title{
-    font-size: 3.3rem;
+    font-size: 2rem;
   }
 }
 .Header > *:last-child {
