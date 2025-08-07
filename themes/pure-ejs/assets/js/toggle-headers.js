@@ -6,12 +6,12 @@ document.addEventListener('DOMContentLoaded', function () {
     // Exclude headers in navigation, site header, and other non-content areas
     const contentArea = document.querySelector('.PageRoot') || document.body;
     const h1Headers = contentArea.querySelectorAll('h1');
-    
+
     h1Headers.forEach(function (h1, index) {
         // Skip headers that are in navigation, site header, or other non-content areas
-        if (h1.closest('.Header') || 
-            h1.closest('header') || 
-            h1.closest('nav') || 
+        if (h1.closest('.Header') ||
+            h1.closest('header') ||
+            h1.closest('nav') ||
             h1.closest('.navbar') ||
             h1.classList.contains('Header__Title')) {
             return;
