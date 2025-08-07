@@ -771,6 +771,48 @@ body {
   }
 }
 
+/* Prevent text selection on mobile */
+@media (max-width: 768px) {
+  .TableOfContents {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+}
+
+/* Improve focus states for accessibility */
+.TableOfContents__Item:focus {
+  outline: 2px solid rgba(0, 120, 223, 0.5);
+  outline-offset: 2px;
+}
+
+.TableOfContents__Toggle:focus {
+  outline: 2px solid rgba(0, 120, 223, 0.5);
+  outline-offset: 2px;
+}
+
+/* Add subtle animation for better UX */
+.TableOfContents__Item {
+  transition: all 0.15s ease;
+}
+
+.TableOfContents__Item:active {
+  transform: scale(0.98);
+}
+
+/* Ensure proper z-index stacking */
+.TableOfContents {
+  z-index: 1000;
+}
+
+/* Hide TOC on very small screens if it might interfere */
+@media only screen and (max-width: 360px) {
+  .TableOfContents {
+    display: none;
+  }
+}
+
 /* Smooth scrolling for anchor links */
 html {
   scroll-behavior: smooth;

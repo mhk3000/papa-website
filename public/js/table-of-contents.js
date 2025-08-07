@@ -48,7 +48,7 @@ function enhanceExistingTableOfContents() {
 
     // Convert existing TOC to floating style
     existingToc.className = 'TableOfContents TableOfContents--collapsed';
-    
+
     // Add header if it doesn't exist
     if (!existingToc.querySelector('.TableOfContents__Header')) {
         const header = document.createElement('div');
@@ -68,19 +68,19 @@ function enhanceExistingTableOfContents() {
     if (!existingToc.querySelector('.TableOfContents__Content')) {
         const content = document.createElement('div');
         content.className = 'TableOfContents__Content';
-        
+
         // Move all existing items to the content wrapper
         const items = Array.from(existingToc.querySelectorAll('.TableOfContents__Item'));
         items.forEach(item => {
             content.appendChild(item);
         });
-        
+
         existingToc.appendChild(content);
     }
 
     // Add event listeners
     setupTableOfContentsEvents(existingToc);
-    
+
     // Get headings for scroll spy
     const contentArea = document.querySelector('.PageRoot');
     if (contentArea) {
@@ -94,7 +94,7 @@ function generateTocItems(headings) {
         const level = parseInt(heading.tagName.charAt(1));
         const text = heading.textContent.trim();
         const id = heading.id || generateId(text);
-        
+
         // Ensure heading has an ID
         if (!heading.id) {
             heading.id = id;
@@ -143,7 +143,7 @@ function setupTableOfContentsEvents(toc) {
             e.preventDefault();
             const targetId = item.getAttribute('data-target');
             const targetElement = document.getElementById(targetId);
-            
+
             if (targetElement) {
                 // Smooth scroll to target
                 targetElement.scrollIntoView({
@@ -209,12 +209,12 @@ function setupScrollSpy(toc, headings) {
 
 function updateActiveItem(toc, targetId) {
     const items = toc.querySelectorAll('.TableOfContents__Item');
-    
+
     items.forEach(item => {
         item.classList.remove('TableOfContents__Item--active');
         if (item.getAttribute('data-target') === targetId) {
             item.classList.add('TableOfContents__Item--active');
-            
+
             // Scroll the active item into view in the TOC
             if (toc.classList.contains('TableOfContents--expanded')) {
                 item.scrollIntoView({
