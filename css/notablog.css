@@ -1612,3 +1612,135 @@ html {
   role: contentinfo;
   aria-label: "Site footer";
 }
+
+/* Enhanced accessibility improvements */
+@media (prefers-reduced-motion: no-preference) {
+  .SkipLink:focus {
+    transition: top 0.3s ease;
+  }
+  
+  .Article:hover {
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .Navbar__Btn:hover {
+    transition: all 0.2s ease-in-out;
+  }
+}
+
+/* High contrast mode enhancements */
+@media (prefers-contrast: high) {
+  .SkipLink {
+    background: #000000;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+  }
+  
+  .SkipLink:focus {
+    background: #ffffff;
+    color: #000000;
+    border: 2px solid #000000;
+  }
+  
+  .Article:focus,
+  .Article:focus-visible {
+    outline: 3px solid #ffffff;
+    outline-offset: 3px;
+  }
+  
+  .Navbar__Btn:focus,
+  .Navbar__Btn:focus-visible {
+    outline: 3px solid #ffffff;
+    outline-offset: 3px;
+  }
+}
+
+/* Focus visible polyfill for older browsers */
+.js-focus-visible :focus:not(.focus-visible) {
+  outline: none;
+}
+
+.js-focus-visible .focus-visible {
+  outline: var(--focus-outline);
+  outline-offset: var(--focus-outline-offset);
+}
+
+/* Ensure sufficient color contrast */
+.DateTagBar__Tag {
+  /* Ensure minimum 4.5:1 contrast ratio */
+  color: rgba(55, 53, 47, 0.9);
+}
+
+.DateTagBar__Tag--red {
+  color: rgba(140, 0, 0, 0.9);
+}
+
+.DateTagBar__Tag--gray {
+  color: rgba(80, 80, 80, 0.9);
+}
+
+.DateTagBar__Tag--brown {
+  color: rgba(100, 50, 0, 0.9);
+}
+
+.DateTagBar__Tag--orange {
+  color: rgba(180, 80, 0, 0.9);
+}
+
+.DateTagBar__Tag--yellow {
+  color: rgba(150, 100, 0, 0.9);
+}
+
+.DateTagBar__Tag--green {
+  color: rgba(0, 100, 80, 0.9);
+}
+
+.DateTagBar__Tag--blue {
+  color: rgba(0, 80, 150, 0.9);
+}
+
+.DateTagBar__Tag--purple {
+  color: rgba(80, 0, 120, 0.9);
+}
+
+.DateTagBar__Tag--pink {
+  color: rgba(150, 0, 100, 0.9);
+}
+
+/* Screen reader only text */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Print styles for accessibility */
+@media print {
+  .SkipLink,
+  .Navbar,
+  .Navbar__MobileToggle {
+    display: none !important;
+  }
+  
+  .Article {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+  
+  .ArticleList {
+    display: block;
+  }
+  
+  .Article {
+    margin: 1rem 0;
+    padding: 1rem;
+    border: 1px solid #000;
+    background: #fff;
+  }
+}
