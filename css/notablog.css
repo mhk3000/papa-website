@@ -855,6 +855,52 @@ body {
   z-index: 1000;
 }
 
+/* Style existing TOC items properly */
+.TableOfContents ul {
+  list-style: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.TableOfContents li {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.TableOfContents a {
+  text-decoration: none !important;
+  color: inherit !important;
+  display: block !important;
+  width: 100% !important;
+}
+
+.TableOfContents a > div {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+/* Override any conflicting styles from theme.css */
+.TableOfContents.ColorfulBlock {
+  position: fixed !important;
+  top: 80px !important;
+  right: 20px !important;
+  width: 280px !important;
+  max-height: calc(100vh - 120px) !important;
+  background: rgba(250, 250, 246, 0.95) !important;
+  backdrop-filter: blur(20px) !important;
+  border: 1px solid rgba(55, 53, 47, 0.16) !important;
+  border-radius: 8px !important;
+  padding: 16px !important;
+  overflow-y: auto !important;
+  z-index: 1000 !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1) !important;
+  transition: all 0.3s ease !important;
+  font-size: 14px !important;
+  line-height: 1.4 !important;
+  margin: 0 !important;
+  overflow-x: visible !important;
+}
+
 /* Hide TOC on very small screens if it might interfere */
 @media only screen and (max-width: 360px) {
   .TableOfContents {

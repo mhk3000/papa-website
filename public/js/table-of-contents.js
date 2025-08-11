@@ -69,6 +69,8 @@ function enhanceExistingTableOfContents() {
     const existingToc = document.querySelector('.TableOfContents');
     if (!existingToc) return;
 
+    console.log('Enhancing existing TOC:', existingToc);
+
     // Convert existing TOC to floating style
     existingToc.className = 'TableOfContents TableOfContents--collapsed';
 
@@ -94,8 +96,30 @@ function enhanceExistingTableOfContents() {
 
         // Move all existing items to the content wrapper
         const items = Array.from(existingToc.querySelectorAll('.TableOfContents__Item'));
+        console.log('Found existing TOC items:', items.length);
         items.forEach(item => {
-            content.appendChild(item);
+            // Convert existing TOC items to work with our system
+            if (item.querySelector('a')) {
+                const link = item.querySelector('a');
+                const href = link.getAttribute('href');
+                const text = link.textContent.trim();
+                
+                // Create new button-style item
+                const newItem = document.createElement('button');
+                newItem.className = 'TableOfContents__Item';
+                newItem.textContent = text;
+                newItem.setAttribute('data-target', href.replace('#', ''));
+                
+                // Determine heading level from margin-left style
+                const marginLeft = link.querySelector('div')?.style.marginLeft || '0px';
+                const level = Math.floor(parseInt(marginLeft) / 24) + 1;
+                newItem.classList.add(`TableOfContents__Item--h${level}`);
+                newItem.setAttribute('data-level', level);
+                
+                content.appendChild(newItem);
+            } else {
+                content.appendChild(item);
+            }
         });
 
         existingToc.appendChild(content);
