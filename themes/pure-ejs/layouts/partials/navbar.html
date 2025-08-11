@@ -27,19 +27,19 @@
               <span><img class="inline-img-icon" src="<%= page.iconUrl %>"></span>&nbsp;
               <% } %>
                 <span>
-                  <% if (page.title === 'Jameela Ki Yadey - Remembering Jameela') { %>
+                  <% if (page.title==='Jameela Ki Yadey - Remembering Jameela' ) { %>
                     Jameela
-                  <% } else if (page.title === 'Poetry by Hunaid') { %>
-                    Poetry
-                  <% } else if (page.title === 'Madeh By Hunaid') { %>
-                    Madeh
-                  <% } else if (page.title === 'Archival Gallery') { %>
-                    Gallery
-                  <% } else if (page.title === 'My Prophet Mohammed') { %>
-                    Prophet
-                  <% } else { %>
-                    <%= page.title %>
-                  <% } %>
+                    <% } else if (page.title==='Poetry by Hunaid' ) { %>
+                      Poetry
+                      <% } else if (page.title==='Madeh By Hunaid' ) { %>
+                        Madeh
+                        <% } else if (page.title==='Archival Gallery' ) { %>
+                          Gallery
+                          <% } else if (page.title==='My Prophet Mohammed' ) { %>
+                            Prophet
+                            <% } else { %>
+                              <%= page.title %>
+                                <% } %>
                 </span>
           </div>
         </a>

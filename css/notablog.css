@@ -106,6 +106,19 @@ body {
     transform: translateY(-1px);
     box-shadow: 0 2px 8px rgba(55, 53, 47, 0.1);
   }
+  
+  /* Focus states for accessibility */
+  .Navbar__Btn:focus {
+    outline: 2px solid rgba(55, 53, 47, 0.3);
+    outline-offset: 2px;
+  }
+  
+  /* Active state for current page */
+  .Navbar__Btn.active {
+    background: rgba(55, 53, 47, 0.1);
+    color: rgba(55, 53, 47, 1);
+    font-weight: 600;
+  }
 }
 
 /* Mobile menu button */
@@ -255,7 +268,7 @@ body {
 }
 
 .Header__Spacer--NoCover {
-  margin-top: calc(50px + 2.5rem);
+  margin-top: calc(60px + 2.5rem);
 }
 
 .Header__Icon {
@@ -264,6 +277,7 @@ body {
   font-size: 75px;
   text-align: center;
   margin-bottom: 1rem;
+  margin-top: 2rem;
 }
 
 .Header__Title {
