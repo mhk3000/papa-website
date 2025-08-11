@@ -7,22 +7,38 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 function initializeTableOfContents() {
+    console.log('Initializing Table of Contents...');
+    
     // Check if we have a table of contents on the page
     const existingToc = document.querySelector('.TableOfContents');
+    console.log('Existing TOC found:', existingToc);
+    
     if (!existingToc) {
+        console.log('Creating new floating TOC...');
         createFloatingTableOfContents();
     } else {
+        console.log('Enhancing existing TOC...');
         enhanceExistingTableOfContents();
     }
 }
 
 function createFloatingTableOfContents() {
+    console.log('Creating floating TOC...');
+    
     const contentArea = document.querySelector('.PageRoot');
-    if (!contentArea) return;
+    console.log('Content area found:', contentArea);
+    if (!contentArea) {
+        console.log('No content area found, returning');
+        return;
+    }
 
     // Find all headings in the content
     const headings = contentArea.querySelectorAll('h1, h2, h3, h4, h5, h6');
-    if (headings.length < 3) return; // Only show TOC if there are enough headings
+    console.log('Headings found:', headings.length, headings);
+    if (headings.length < 3) {
+        console.log('Not enough headings, returning');
+        return; // Only show TOC if there are enough headings
+    }
 
     // Create the floating table of contents
     const toc = document.createElement('div');
