@@ -8,23 +8,28 @@ document.addEventListener('DOMContentLoaded', function () {
 
 function initializeTableOfContents() {
     console.log('Initializing Table of Contents...');
-    
+
     // Check if we have a table of contents on the page
     const existingToc = document.querySelector('.TableOfContents');
     console.log('Existing TOC found:', existingToc);
-    
-    if (!existingToc) {
+
+    // Also check for ColorfulBlock with TableOfContents class
+    const colorfulToc = document.querySelector('.ColorfulBlock.TableOfContents');
+    console.log('Colorful TOC found:', colorfulToc);
+
+    if (!existingToc && !colorfulToc) {
         console.log('Creating new floating TOC...');
         createFloatingTableOfContents();
     } else {
         console.log('Enhancing existing TOC...');
-        enhanceExistingTableOfContents();
+        const tocToEnhance = existingToc || colorfulToc;
+        enhanceExistingTableOfContents(tocToEnhance);
     }
 }
 
 function createFloatingTableOfContents() {
     console.log('Creating floating TOC...');
-    
+
     const contentArea = document.querySelector('.PageRoot');
     console.log('Content area found:', contentArea);
     if (!contentArea) {
@@ -65,8 +70,7 @@ function createFloatingTableOfContents() {
     setupScrollSpy(toc, headings);
 }
 
-function enhanceExistingTableOfContents() {
-    const existingToc = document.querySelector('.TableOfContents');
+function enhanceExistingTableOfContents(existingToc) {
     if (!existingToc) return;
 
     console.log('Enhancing existing TOC:', existingToc);
@@ -103,19 +107,19 @@ function enhanceExistingTableOfContents() {
                 const link = item.querySelector('a');
                 const href = link.getAttribute('href');
                 const text = link.textContent.trim();
-                
+
                 // Create new button-style item
                 const newItem = document.createElement('button');
                 newItem.className = 'TableOfContents__Item';
                 newItem.textContent = text;
                 newItem.setAttribute('data-target', href.replace('#', ''));
-                
+
                 // Determine heading level from margin-left style
                 const marginLeft = link.querySelector('div')?.style.marginLeft || '0px';
                 const level = Math.floor(parseInt(marginLeft) / 24) + 1;
                 newItem.classList.add(`TableOfContents__Item--h${level}`);
                 newItem.setAttribute('data-level', level);
-                
+
                 content.appendChild(newItem);
             } else {
                 content.appendChild(item);
