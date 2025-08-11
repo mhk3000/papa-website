@@ -626,10 +626,37 @@ body {
   height: 100%; /* Ensure equal height in grid */
   display: flex;
   flex-direction: column;
+  /* Enhanced clickable appearance */
+  user-select: none;
   /* Accessibility improvements */
   role: article;
   tabindex: "0";
   aria-label: "Article card";
+}
+
+/* Add subtle clickable indicator */
+.Article::after {
+  content: '→';
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  font-size: 1.2rem;
+  color: rgba(55, 53, 47, 0.3);
+  transition: all 0.2s ease;
+  opacity: 0;
+  transform: translateX(-5px);
+}
+
+.Article:hover::after {
+  opacity: 1;
+  transform: translateX(0);
+  color: rgba(55, 53, 47, 0.6);
+}
+
+.Article:focus::after {
+  opacity: 1;
+  transform: translateX(0);
+  color: rgba(0, 120, 223, 0.8);
 }
 
 .Article:hover {
@@ -637,19 +664,17 @@ body {
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
   border-color: rgba(55, 53, 47, 0.08);
   background: rgba(250, 250, 246, 0.8);
+  /* Enhanced hover feedback */
+  cursor: pointer;
 }
 
 .Article:active {
   transform: translateY(0);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  /* Active state feedback */
+  background: rgba(250, 250, 246, 0.9);
 }
 
-.Article:focus-within {
-  outline: var(--focus-outline);
-  outline-offset: var(--focus-outline-offset);
-}
-
-/* Enhanced focus states for keyboard navigation */
 .Article:focus {
   outline: var(--focus-outline);
   outline-offset: var(--focus-outline-offset);
@@ -1742,5 +1767,22 @@ html {
     padding: 1rem;
     border: 1px solid #000;
     background: #fff;
+  }
+}
+
+/* Mobile improvements for clickable indicator */
+@media only screen and (max-width: 768px) {
+  .Article::after {
+    top: 0.75rem;
+    right: 0.75rem;
+    font-size: 1rem;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .Article::after {
+    top: 0.5rem;
+    right: 0.5rem;
+    font-size: 0.9rem;
   }
 }
