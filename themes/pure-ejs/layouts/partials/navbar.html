@@ -20,7 +20,6 @@
   <div class="Navbar__Items">
     <% siteMeta.pages.forEach(function(page) { %>
       <% if (page.publish && page.inMenu) { %>
-        <span class="Navbar__Delim">&centerdot;</span>
         <a href="<%= page.url %>">
           <div class="Navbar__Btn">
             <% if (page.iconUrl) { %>
