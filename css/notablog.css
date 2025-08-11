@@ -1,14 +1,62 @@
 
 :root{
   font-size:17px;
+  /* Accessibility improvements */
+  --focus-outline: 3px solid rgba(0, 120, 223, 0.8);
+  --focus-outline-offset: 2px;
+  --high-contrast-bg: #000000;
+  --high-contrast-text: #ffffff;
+  --high-contrast-border: #ffffff;
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+  :root {
+    --color-text-default: var(--high-contrast-text);
+    --color-text-default-light: var(--high-contrast-text);
+    --color-bg-default: var(--high-contrast-bg);
+    --color-bg-gray: var(--high-contrast-bg);
+    --color-bg-gray-light: var(--high-contrast-bg);
+  }
+  
+  .Navbar {
+    background-color: var(--high-contrast-bg) !important;
+    border-bottom: 2px solid var(--high-contrast-border) !important;
+  }
+  
+  .Article {
+    border: 2px solid var(--high-contrast-border) !important;
+    background: var(--high-contrast-bg) !important;
+  }
+  
+  .DateTagBar__Tag {
+    border: 1px solid var(--high-contrast-border) !important;
+    background: var(--high-contrast-bg) !important;
+    color: var(--high-contrast-text) !important;
+  }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
 }
 
 body {
   background: rgb(250, 250, 246);
+  /* Improve text rendering */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
 }
 
 /* Navbar */
-
 
 .Navbar {
   display: flex;
@@ -27,6 +75,9 @@ body {
   backdrop-filter: blur(20px);
   border-bottom: 1px solid rgba(55, 53, 47, 0.08);
   overflow-x: auto;
+  /* Accessibility improvements */
+  role: navigation;
+  aria-label: "Main navigation";
 }
 
 .Navbar a {
@@ -49,6 +100,10 @@ body {
   align-items: center;
   font-weight: 500;
   color: rgba(55, 53, 47, 0.8);
+  /* Accessibility improvements */
+  min-height: 44px; /* Touch target size */
+  min-width: 44px;
+  position: relative;
 }
 
 .Navbar__Btn:hover {
@@ -60,6 +115,23 @@ body {
 .Navbar__Btn:active {
   background: rgba(55, 53, 47, 0.16);
   transform: translateY(0);
+}
+
+/* Enhanced focus states for accessibility */
+.Navbar__Btn:focus {
+  outline: var(--focus-outline);
+  outline-offset: var(--focus-outline-offset);
+  background: rgba(55, 53, 47, 0.12);
+  color: rgba(55, 53, 47, 1);
+}
+
+.Navbar__Btn:focus:not(:focus-visible) {
+  outline: none;
+}
+
+.Navbar__Btn:focus-visible {
+  outline: var(--focus-outline);
+  outline-offset: var(--focus-outline-offset);
 }
 
 .Navbar__Btn > span {
@@ -74,6 +146,8 @@ body {
   margin: 0 8px;
   color: rgba(55, 53, 47, 0.3);
   font-weight: 300;
+  /* Accessibility: hide from screen readers */
+  aria-hidden: "true";
 }
 
 /* Navigation items container */
@@ -135,6 +209,30 @@ body {
   padding: 0;
   margin-left: auto;
   z-index: 10;
+  /* Accessibility improvements */
+  min-height: 44px;
+  min-width: 44px;
+  border-radius: 4px;
+  transition: background-color 0.2s ease;
+}
+
+.Navbar__MobileToggle:hover {
+  background: rgba(55, 53, 47, 0.08);
+}
+
+.Navbar__MobileToggle:focus {
+  outline: var(--focus-outline);
+  outline-offset: var(--focus-outline-offset);
+  background: rgba(55, 53, 47, 0.12);
+}
+
+.Navbar__MobileToggle:focus:not(:focus-visible) {
+  outline: none;
+}
+
+.Navbar__MobileToggle:focus-visible {
+  outline: var(--focus-outline);
+  outline-offset: var(--focus-outline-offset);
 }
 
 .Navbar__MobileToggle span {
@@ -179,10 +277,15 @@ body {
     transition: right 0.3s ease;
     box-shadow: -2px 0 10px rgba(0, 0, 0, 0.1);
     overflow-y: auto;
+    /* Accessibility improvements */
+    role: menu;
+    aria-label: "Mobile navigation menu";
+    aria-hidden: "true";
   }
   
   .Navbar__Items.active {
     right: 0;
+    aria-hidden: "false";
   }
   
   .Navbar__Items .Navbar__Btn {
@@ -190,6 +293,9 @@ body {
     padding: 12px 8px;
     margin: 4px 0;
     border-radius: 6px;
+    /* Accessibility improvements */
+    role: menuitem;
+    min-height: 48px;
   }
   
   .Navbar__Items .Navbar__Delim {
@@ -212,11 +318,14 @@ body {
     visibility: hidden;
     transition: all 0.3s ease;
     z-index: 998;
+    /* Accessibility improvements */
+    aria-hidden: "true";
   }
   
   .Navbar__Overlay.active {
     opacity: 1;
     visibility: visible;
+    aria-hidden: "false";
   }
 }
 
@@ -332,25 +441,45 @@ body {
 }
 
 /* Enhanced tag styling with uppercase Verdana */
-  .DateTagBar__Tag {
-    background: rgba(206, 205, 202, 0.5);
-    color: hsla(45, 8%, 25%, 1);
-    font-family: Verdana, Geneva, sans-serif;
-    font-size: 0.8rem;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-    white-space: nowrap;
-    padding: 8px 12px;
-    border-radius: 12px;
-    transition: all 0.2s ease;
-    display: inline-block;
-  }
+.DateTagBar__Tag {
+  background: rgba(206, 205, 202, 0.5);
+  color: hsla(45, 8%, 25%, 1);
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  white-space: nowrap;
+  padding: 8px 12px;
+  border-radius: 12px;
+  transition: all 0.2s ease;
+  display: inline-block;
+  /* Accessibility improvements */
+  min-height: 32px;
+  min-width: 32px;
+  position: relative;
+}
 
 .DateTagBar__Tag:hover {
   background: rgba(206, 205, 202, 0.7);
   transform: translateY(-1px);
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.DateTagBar__Tag:focus {
+  outline: var(--focus-outline);
+  outline-offset: var(--focus-outline-offset);
+  background: rgba(206, 205, 202, 0.8);
+  transform: translateY(-1px);
+}
+
+.DateTagBar__Tag:focus:not(:focus-visible) {
+  outline: none;
+}
+
+.DateTagBar__Tag:focus-visible {
+  outline: var(--focus-outline);
+  outline-offset: var(--focus-outline-offset);
 }
 
 .DateTagBar__Tag > a {
@@ -360,6 +489,24 @@ body {
   display: block;
   width: 100%;
   height: 100%;
+  /* Accessibility improvements */
+  padding: 8px 12px;
+  border-radius: 12px;
+  transition: all 0.2s ease;
+}
+
+.DateTagBar__Tag > a:focus {
+  outline: var(--focus-outline);
+  outline-offset: var(--focus-outline-offset);
+}
+
+.DateTagBar__Tag > a:focus:not(:focus-visible) {
+  outline: none;
+}
+
+.DateTagBar__Tag > a:focus-visible {
+  outline: var(--focus-outline);
+  outline-offset: var(--focus-outline-offset);
 }
 
 /* Improved tag colors for better visibility */
@@ -479,6 +626,10 @@ body {
   height: 100%; /* Ensure equal height in grid */
   display: flex;
   flex-direction: column;
+  /* Accessibility improvements */
+  role: article;
+  tabindex: "0";
+  aria-label: "Article card";
 }
 
 .Article:hover {
@@ -494,8 +645,24 @@ body {
 }
 
 .Article:focus-within {
-  outline: 2px solid rgba(0, 120, 223, 0.5);
-  outline-offset: 2px;
+  outline: var(--focus-outline);
+  outline-offset: var(--focus-outline-offset);
+}
+
+/* Enhanced focus states for keyboard navigation */
+.Article:focus {
+  outline: var(--focus-outline);
+  outline-offset: var(--focus-outline-offset);
+  border-color: rgba(0, 120, 223, 0.5);
+}
+
+.Article:focus:not(:focus-visible) {
+  outline: none;
+}
+
+.Article:focus-visible {
+  outline: var(--focus-outline);
+  outline-offset: var(--focus-outline-offset);
 }
 
 /* Make the entire article clickable */
@@ -534,6 +701,9 @@ body {
 .Article__Title > a {
   border-bottom: 2px solid hsl(45, 8%, 85%);
   transition: border-color 0.2s ease;
+  /* Accessibility improvements */
+  display: inline-block;
+  padding: 2px 0;
 }
 
 .Article__Title > a:not(:first-child) {
@@ -545,9 +715,18 @@ body {
 }
 
 .Article__Title > a:focus {
-  outline: 2px solid rgba(0, 120, 223, 0.5);
-  outline-offset: 2px;
+  outline: var(--focus-outline);
+  outline-offset: var(--focus-outline-offset);
   border-radius: 4px;
+}
+
+.Article__Title > a:focus:not(:focus-visible) {
+  outline: none;
+}
+
+.Article__Title > a:focus-visible {
+  outline: var(--focus-outline);
+  outline-offset: var(--focus-outline-offset);
 }
 
 .Article__Desc {
