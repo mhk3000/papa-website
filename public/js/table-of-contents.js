@@ -1,5 +1,12 @@
 // Enhanced Table of Contents for Notion-style interaction
 document.addEventListener('DOMContentLoaded', function () {
+    // Wait a bit for the page to fully load
+    setTimeout(() => {
+        initializeTableOfContents();
+    }, 100);
+});
+
+function initializeTableOfContents() {
     // Check if we have a table of contents on the page
     const existingToc = document.querySelector('.TableOfContents');
     if (!existingToc) {
@@ -7,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function () {
     } else {
         enhanceExistingTableOfContents();
     }
-});
+}
 
 function createFloatingTableOfContents() {
     const contentArea = document.querySelector('.PageRoot');

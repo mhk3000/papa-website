@@ -250,6 +250,7 @@ body {
 .Header__Cover {
   position: relative;
   width: 100%;
+  margin-top: 2rem;
   margin-bottom: 2rem;
   border-radius: 8px;
   overflow: hidden;
@@ -499,24 +500,26 @@ body {
   vertical-align: sub;
 }
 
-/* Notion-style Table of Contents */
+/* Notion-style Table of Contents - Override theme.css */
 .TableOfContents {
-  position: fixed;
-  top: 80px; /* Below navbar */
-  right: 20px;
-  width: 280px;
-  max-height: calc(100vh - 120px);
-  background: rgba(250, 250, 246, 0.95);
-  backdrop-filter: blur(20px);
-  border: 1px solid rgba(55, 53, 47, 0.16);
-  border-radius: 8px;
-  padding: 16px;
-  overflow-y: auto;
-  z-index: 100;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-  transition: all 0.3s ease;
-  font-size: 14px;
-  line-height: 1.4;
+  position: fixed !important;
+  top: 80px !important; /* Below navbar */
+  right: 20px !important;
+  width: 280px !important;
+  max-height: calc(100vh - 120px) !important;
+  background: rgba(250, 250, 246, 0.95) !important;
+  backdrop-filter: blur(20px) !important;
+  border: 1px solid rgba(55, 53, 47, 0.16) !important;
+  border-radius: 8px !important;
+  padding: 16px !important;
+  overflow-y: auto !important;
+  z-index: 1000 !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1) !important;
+  transition: all 0.3s ease !important;
+  font-size: 14px !important;
+  line-height: 1.4 !important;
+  margin: 0 !important;
+  overflow-x: visible !important;
 }
 
 .TableOfContents--collapsed {
