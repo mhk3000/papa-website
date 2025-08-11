@@ -1074,10 +1074,10 @@ html {
     background: rgba(250, 250, 246, 0.9);
   }
   
-  .DateTagBar__Tag {
-    padding: 1px 5px;
-    font-size: 0.75rem;
-  }
+     .DateTagBar__Tag {
+     padding: 6px 10px;
+     font-size: 0.75rem;
+   }
 }
 
 /* Touch device improvements */
