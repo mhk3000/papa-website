@@ -330,17 +330,21 @@ body {
   padding-right: 0px;
 }
 
-/* Enhanced tag styling with reduced padding */
-.DateTagBar__Tag {
-  background: rgba(206, 205, 202, 0.5);
-  color: hsla(45, 8%, 25%, 1);
-  font-size: 0.8rem;
-  white-space: nowrap;
-  padding: 2px 6px;
-  border-radius: 12px;
-  transition: all 0.2s ease;
-  display: inline-block;
-}
+/* Enhanced tag styling with uppercase Verdana */
+  .DateTagBar__Tag {
+    background: rgba(206, 205, 202, 0.5);
+    color: hsla(45, 8%, 25%, 1);
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    white-space: nowrap;
+    padding: 8px 12px;
+    border-radius: 12px;
+    transition: all 0.2s ease;
+    display: inline-block;
+  }
 
 .DateTagBar__Tag:hover {
   background: rgba(206, 205, 202, 0.7);
