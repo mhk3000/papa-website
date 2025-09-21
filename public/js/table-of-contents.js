@@ -25,6 +25,17 @@ function initializeTableOfContents() {
         const tocToEnhance = existingToc || colorfulToc;
         enhanceExistingTableOfContents(tocToEnhance);
     }
+
+    // Check if TOC was created after a delay
+    setTimeout(() => {
+        const finalToc = document.querySelector('.TableOfContents');
+        console.log('Final TOC check:', finalToc);
+        if (finalToc) {
+            console.log('TOC successfully created!');
+        } else {
+            console.log('TOC creation failed!');
+        }
+    }, 1000);
 }
 
 function createFloatingTableOfContents() {
@@ -40,10 +51,12 @@ function createFloatingTableOfContents() {
     // Find all headings in the content
     const headings = contentArea.querySelectorAll('h1, h2, h3, h4, h5, h6');
     console.log('Headings found:', headings.length, headings);
-    if (headings.length < 3) {
+    if (headings.length < 2) {
         console.log('Not enough headings, returning');
         return; // Only show TOC if there are enough headings
     }
+
+    console.log('Proceeding to create TOC...');
 
     // Create the floating table of contents
     const toc = document.createElement('div');
@@ -64,6 +77,7 @@ function createFloatingTableOfContents() {
 
     // Add to the page
     document.body.appendChild(toc);
+    console.log('TOC added to page:', toc);
 
     // Add event listeners
     setupTableOfContentsEvents(toc);
