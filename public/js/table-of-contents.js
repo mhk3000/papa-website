@@ -56,8 +56,6 @@ function createFloatingTableOfContents() {
         return; // Only show TOC if there are enough headings
     }
 
-    console.log('Proceeding to create TOC...');
-
     // Create the floating table of contents
     const toc = document.createElement('div');
     toc.className = 'TableOfContents TableOfContents--collapsed';
